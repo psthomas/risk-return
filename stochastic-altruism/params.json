@@ -1,0 +1,1064 @@
+{
+    "UBI": {
+        "Duration of investment benefits (in years) - UBI": {
+            "val": [
+                5.0,
+                10.0,
+                10.0,
+                6.0,
+                0.0,
+                10.0,
+                10.0,
+                10.0,
+                20.0,
+                10.0,
+                10.0,
+                15.0
+            ],
+            "dist": "array"
+        },
+        "Percentage of transfers invested - UBI": {
+            "val": [
+                0.26,
+                0.05,
+                0.05,
+                0.26,
+                0.0,
+                0.26,
+                0.1,
+                0.26,
+                0.26,
+                0.1,
+                0.13,
+                0.13
+            ],
+            "dist": "array"
+        },
+        "Work participation adjustment": {
+            "val": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                0.95,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                0.95
+            ],
+            "dist": "array"
+        },
+        "Expected annual consumption increase (without the UBI program)": {
+            "val": [
+                0.02,
+                0.03,
+                0.03,
+                0.02,
+                0.02,
+                0.02,
+                0.03,
+                0.02,
+                0.02,
+                0.02,
+                0.01,
+                0.02
+            ],
+            "dist": "array"
+        },
+        "Return on investment - UBI": {
+            "val": [
+                0.1,
+                0.1,
+                0.1,
+                0.1,
+                0.0,
+                0.1,
+                0.1,
+                0.07,
+                0.1,
+                0.05,
+                0.1,
+                0.1
+            ],
+            "dist": "array"
+        },
+        "Percent of investment returned when benefits end - UBI": {
+            "val": [
+                0.25,
+                0.25,
+                0.0,
+                0.3,
+                0.0,
+                0.25,
+                0.25,
+                0.1,
+                0.1,
+                0.25,
+                0.25,
+                0.25
+            ],
+            "dist": "array"
+        }
+    },
+    "Iodine": {
+        "% of benefit of iodine that lasts for the long term": {
+            "val": [
+                0.8,
+                0.8,
+                0.8,
+                0.8,
+                0.8,
+                0.8,
+                1.0,
+                1.0,
+                0.4,
+                0.4
+            ],
+            "dist": "array"
+        },
+        "Probability that GAIN/ICCIDD has an impact": {
+            "val": [
+                0.5,
+                0.25,
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.75,
+                0.75,
+                0.25,
+                0.25
+            ],
+            "dist": "array"
+        },
+        "Percent of population under 15": {
+            "val": 0.431,
+            "dist": "const"
+        },
+        "% of children that benefit": {
+            "val": [
+                0.8,
+                0.8,
+                0.8,
+                1.0,
+                0.8,
+                0.8,
+                1.0,
+                1.0,
+                0.332,
+                0.332
+            ],
+            "dist": "array"
+        },
+        "Equivalent increase in wages from having iodine throughout childhood": {
+            "val": [
+                0.036,
+                0.036,
+                0.036,
+                0.036,
+                0.036,
+                0.036,
+                0.027,
+                0.027,
+                0.054,
+                0.054
+            ],
+            "dist": "array"
+        },
+        "Years of Childhood (for iodine)": {
+            "val": 15.0,
+            "dist": "const"
+        },
+        "External validity": {
+            "val": [
+                0.7,
+                0.7,
+                0.7,
+                0.7
+            ],
+            "dist": "array"
+        },
+        "Replicability": {
+            "val": [
+                0.8,
+                0.7,
+                0.9,
+                0.8,
+                0.8,
+                0.8,
+                0.6,
+                0.6,
+                0.7,
+                0.7
+            ],
+            "dist": "array"
+        },
+        "Leverage (dollars of impact per dollars spent)": {
+            "val": [
+                1.0,
+                1.0,
+                2.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                2.0,
+                2.0,
+                2.0
+            ],
+            "dist": "array"
+        },
+        "Cost per person per year": {
+            "val": [
+                0.1,
+                0.1,
+                0.08,
+                0.08,
+                0.08,
+                0.08,
+                0.05,
+                0.05,
+                0.1,
+                0.1
+            ],
+            "dist": "array"
+        }
+    },
+    "GD": {
+        "Return on investment - Standard program": {
+            "val": [
+                0.1,
+                0.15,
+                0.1,
+                0.1,
+                0.1,
+                0.1,
+                0.1,
+                0.12,
+                0.1,
+                0.1,
+                0.1,
+                0.1
+            ],
+            "dist": "array"
+        },
+        "Duration of investment benefits (in years) - Standard program": {
+            "val": [
+                20.0,
+                15.0,
+                10.0,
+                8.0,
+                20.0,
+                10.0,
+                20.0,
+                10.0,
+                20.0,
+                10.0,
+                10.0,
+                10.0
+            ],
+            "dist": "array"
+        },
+        "Weight of standard program in overall cost-effectiveness of GiveDirectly": {
+            "val": [
+                1.0,
+                0.9,
+                1.0,
+                0.85,
+                1.0,
+                1.0,
+                1.0,
+                0.8,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "dist": "array"
+        },
+        "Percentage of transfers invested - Standard program": {
+            "val": [
+                0.4,
+                0.39,
+                0.39,
+                0.3,
+                0.39,
+                0.5,
+                0.39,
+                0.39,
+                0.39,
+                0.33,
+                0.39,
+                0.39
+            ],
+            "dist": "array"
+        },
+        "Transfers as a percentage of total cost - Standard program": {
+            "val": [
+                0.81,
+                0.82,
+                0.81,
+                0.83,
+                0.81,
+                0.81,
+                0.83,
+                0.81,
+                0.82,
+                0.8,
+                0.81,
+                0.82
+            ],
+            "dist": "array"
+        },
+        "Percent of investment returned when benefits end - Standard program": {
+            "val": [
+                0.3,
+                0.25,
+                0.0,
+                0.3,
+                0.25,
+                0.25,
+                0.1,
+                0.1,
+                0.1,
+                0.25,
+                0.25,
+                0.3
+            ],
+            "dist": "array"
+        }
+    },
+    "SS": {
+        "Adjustment for benefit varying by treatment frequency": {
+            "val": [
+                1.0,
+                0.77,
+                0.9,
+                1.0,
+                0.81,
+                1.0,
+                1.0,
+                0.94,
+                1.0
+            ],
+            "dist": "array"
+        },
+        "Cost per person dewormed (per year)": {
+            "val": [
+                0.89,
+                1.04,
+                1.04,
+                0.89,
+                1.04,
+                0.89,
+                1.31,
+                1.04,
+                1.31
+            ],
+            "dist": "array"
+        },
+        "Leverage (dollars of impact per dollar spent)": {
+            "val": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "dist": "array"
+        },
+        "Proportion of deworming going to children": {
+            "val": [
+                0.9,
+                0.9,
+                0.9,
+                0.85,
+                0.9,
+                0.8,
+                0.9,
+                0.9,
+                0.9
+            ],
+            "dist": "array"
+        },
+        "Prevalence/intensity adjustment": {
+            "val": [
+                0.1,
+                0.11,
+                0.09,
+                0.11,
+                0.12,
+                0.2,
+                0.1,
+                0.1,
+                0.12
+            ],
+            "dist": "array"
+        }
+    },
+    "AMF": {
+        "External validity adjustment for declines in malaria mortality (to make ITN model consistent with SMC model) - Autocalculated": {
+            "val": [
+                0.83,
+                1.0,
+                0.77,
+                0.77,
+                0.77,
+                1.0,
+                0.77,
+                0.77,
+                0.77,
+                0.77,
+                0.77,
+                0.77
+            ],
+            "dist": "array"
+        },
+        "DALYs averted per death of an under-5 averted - AMF": {
+            "val": [
+                4.0,
+                8.0,
+                26.0,
+                4.0,
+                15.0,
+                3.0,
+                12.0,
+                13.0,
+                15.0,
+                3.0,
+                3.7,
+                5.0
+            ],
+            "dist": "array"
+        },
+        "ITN alternative funders adjustment": {
+            "val": [
+                0.78,
+                0.78,
+                0.78,
+                0.6,
+                0.78,
+                0.78,
+                0.78,
+                0.78,
+                0.78,
+                0.78,
+                0.78,
+                0.75
+            ],
+            "dist": "array"
+        },
+        "Value of an adult malaria death prevented relative to that of a young child": {
+            "val": [
+                4.0,
+                3.0,
+                2.0,
+                6.0,
+                4.0,
+                10.0,
+                3.0,
+                3.0,
+                3.5,
+                5.0,
+                4.3,
+                6.0
+            ],
+            "dist": "array"
+        },
+        "Replicability adjustment - ITNs": {
+            "val": [
+                0.9,
+                0.95,
+                0.95,
+                0.7,
+                0.95,
+                0.85,
+                1.0,
+                0.9,
+                0.95,
+                0.85,
+                0.87,
+                0.95
+            ],
+            "dist": "array"
+        },
+        "Relative value of a year of deworming in Baird to development benefits from a year of ITN coverage": {
+            "val": [
+                20.0,
+                5.0,
+                2.0,
+                20.0,
+                5.0,
+                2.0,
+                10.0,
+                15.0,
+                5.0,
+                20.0,
+                20.0,
+                20.0
+            ],
+            "dist": "array"
+        },
+        "Relative efficacy of ITNs for reducing adult mortality": {
+            "val": [
+                0.5,
+                0.4,
+                0.5,
+                0.5,
+                0.5,
+                0.25,
+                0.5,
+                0.5,
+                0.6,
+                0.25,
+                0.05,
+                0.5
+            ],
+            "dist": "array"
+        }
+    },
+    "SCI": {
+        "Adjustment for benefit varying by treatment frequency": {
+            "val": [
+                1.0,
+                1.0,
+                0.77,
+                0.9,
+                1.0,
+                0.81,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "dist": "array"
+        },
+        "Cost per person dewormed (per year)": {
+            "val": [
+                0.67,
+                0.67,
+                0.49,
+                0.67,
+                0.67,
+                0.67,
+                0.84,
+                0.67,
+                0.67,
+                1.19,
+                0.84,
+                0.67
+            ],
+            "dist": "array"
+        },
+        "Leverage (dollars of impact per dollar spent)": {
+            "val": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "dist": "array"
+        },
+        "Proportion of deworming going to children": {
+            "val": [
+                0.85,
+                0.85,
+                0.83,
+                0.85,
+                0.85,
+                0.85,
+                0.85,
+                0.85,
+                0.85,
+                0.85,
+                0.85,
+                0.85
+            ],
+            "dist": "array"
+        },
+        "Prevalence/intensity adjustment": {
+            "val": [
+                0.18,
+                0.2,
+                0.12,
+                0.09,
+                0.11,
+                0.18,
+                0.17,
+                0.12,
+                0.2,
+                0.1,
+                0.2,
+                0.12
+            ],
+            "dist": "array"
+        }
+    },
+    "Shared": {
+        "Discount rate": {
+            "val": [
+                0.02,
+                0.03,
+                0.02,
+                0.02,
+                0.03,
+                0.03,
+                0.02,
+                0.03,
+                0.03,
+                0.02,
+                0.05,
+                0.02
+            ],
+            "dist": "array"
+        },
+        "1 DALY averted is equivalent to increasing ln(consumption) by one unit for one individual for how many years?": {
+            "val": [
+                2.0,
+                4.0,
+                4.0,
+                4.0,
+                3.0,
+                4.0,
+                2.0,
+                3.0,
+                3.0,
+                2.5,
+                1.6,
+                2.0
+            ],
+            "dist": "array"
+        }
+    },
+    "DtW": {
+        "Adjustment for benefit varying by treatment frequency": {
+            "val": [
+                0.81,
+                0.81,
+                0.77,
+                0.9,
+                1.0,
+                0.81,
+                0.81,
+                1.0,
+                1.0,
+                1.0,
+                0.87,
+                1.0
+            ],
+            "dist": "array"
+        },
+        "Proportion of deworming going to children": {
+            "val": [
+                1.0,
+                1.0,
+                1.0,
+                0.9,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "dist": "array"
+        },
+        "Cost per person dewormed (per year)": {
+            "val": [
+                0.65,
+                0.5,
+                0.53,
+                0.5,
+                0.5,
+                0.8,
+                0.65,
+                0.67,
+                0.5,
+                0.65,
+                0.5,
+                0.53
+            ],
+            "dist": "array"
+        },
+        "Leverage (dollars of impact per dollar spent)": {
+            "val": [
+                1.0,
+                1.0,
+                1.0,
+                1.17,
+                1.0,
+                1.0,
+                1.17,
+                1.0,
+                1.1,
+                1.0,
+                1.0,
+                1.17
+            ],
+            "dist": "array"
+        },
+        "Prevalence/intensity adjustment": {
+            "val": [
+                0.15,
+                0.17,
+                0.12,
+                0.12,
+                0.12,
+                0.09,
+                0.21,
+                0.17,
+                0.17,
+                0.09,
+                0.17,
+                0.1
+            ],
+            "dist": "array"
+        }
+    },
+    "Deworming": {
+        "Short term health benefits of deworming (DALYs averted per person treated)": {
+            "val": [
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "dist": "array"
+        },
+        "Deworming alternate funders adjustment": {
+            "val": [
+                0.95,
+                0.95,
+                0.95,
+                0.95,
+                0.95,
+                0.95,
+                0.95,
+                0.95,
+                0.95,
+                0.95,
+                0.95,
+                0.89
+            ],
+            "dist": "array"
+        },
+        "Additional years of treatment assigned to Baird's treatment group": {
+            "val": [
+                2.41,
+                2.41,
+                2.41,
+                2.41,
+                2.41,
+                2.41,
+                2.41,
+                2.41,
+                2.41,
+                2.41,
+                2.41,
+                2.41
+            ],
+            "dist": "array"
+        },
+        "Treatment effect of deworming on ln(consumption)": {
+            "val": [
+                0.14,
+                0.14,
+                0.14,
+                0.14,
+                0.14,
+                0.14,
+                0.14,
+                0.14,
+                0.14,
+                0.14,
+                0.14,
+                0.14
+            ],
+            "dist": "array"
+        },
+        "Adjustment for El Nino": {
+            "val": [
+                0.71,
+                0.71,
+                0.71,
+                0.71,
+                0.71,
+                0.54,
+                0.71,
+                0.71,
+                0.71,
+                0.71,
+                0.71,
+                0.71
+            ],
+            "dist": "array"
+        },
+        "Number of household members that benefit - Deworming": {
+            "val": [
+                2.2,
+                2.0,
+                2.2,
+                2.0,
+                2.0,
+                2.0,
+                2.2,
+                2.2,
+                2.2,
+                1.7,
+                2.2,
+                2.2
+            ],
+            "dist": "array"
+        },
+        "Proportion of child-years that are as helpful (in terms of developmental effects) as the years in Baird et al.": {
+            "val": [
+                0.5,
+                0.5,
+                0.7,
+                0.75,
+                0.5,
+                0.5,
+                0.65,
+                0.5,
+                0.5,
+                0.5,
+                0.41,
+                0.5
+            ],
+            "dist": "array"
+        },
+        "Duration of long term benefits of deworming (in years)": {
+            "val": [
+                25.0,
+                25.0,
+                40.0,
+                45.0,
+                40.0,
+                20.0,
+                30.0,
+                30.0,
+                40.0,
+                40.0,
+                30.0,
+                25.0
+            ],
+            "dist": "array"
+        },
+        "Replicability adjustment for deworming": {
+            "val": [
+                0.2,
+                0.15,
+                0.1,
+                0.1,
+                0.2,
+                0.5,
+                0.2,
+                0.12,
+                0.17,
+                0.1,
+                0.04,
+                0.23
+            ],
+            "dist": "array"
+        },
+        "Proportion of dewormed children that benefited from long term gains in Baird et al.": {
+            "val": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                0.75,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "dist": "array"
+        },
+        "Average number of years between deworming and the beginning of long term benefits": {
+            "val": [
+                8.0,
+                8.0,
+                5.0,
+                8.0,
+                8.0,
+                5.0,
+                5.0,
+                8.0,
+                8.0,
+                8.0,
+                5.0,
+                5.0
+            ],
+            "dist": "array"
+        }
+    },
+    "SMC": {
+        "External validity adjustment - SMC": {
+            "val": [
+                0.9,
+                0.9,
+                1.0,
+                0.7,
+                1.0,
+                0.8,
+                0.9,
+                0.9,
+                0.85,
+                0.85,
+                0.9,
+                0.85
+            ],
+            "dist": "array"
+        },
+        "Relative value of a year of deworming in Baird to development benefits from 4-months of SMC coverage": {
+            "val": [
+                24.0,
+                6.0,
+                2.4,
+                20.0,
+                5.0,
+                2.0,
+                12.0,
+                15.0,
+                5.0,
+                20.0,
+                20.0,
+                20.0
+            ],
+            "dist": "array"
+        },
+        "Alternate funders adjustment - SMC": {
+            "val": [
+                0.78,
+                0.95,
+                0.95,
+                0.95,
+                0.9,
+                0.78,
+                0.9,
+                0.9,
+                0.95,
+                0.95,
+                0.9,
+                0.78
+            ],
+            "dist": "array"
+        },
+        "DALYs averted per death of a 3- to 59-month old child averted - SMC": {
+            "val": [
+                5.0,
+                12.0,
+                28.0,
+                5.5,
+                22.5,
+                3.0,
+                15.0,
+                15.0,
+                18.0,
+                3.5,
+                3.7,
+                6.0
+            ],
+            "dist": "array"
+        },
+        "Relative risk for malaria outcome, intention to treat effect": {
+            "val": [
+                0.29,
+                0.29,
+                0.29,
+                0.29,
+                0.29,
+                0.29,
+                0.29,
+                0.29,
+                0.29,
+                0.29,
+                0.29,
+                0.29
+            ],
+            "dist": "array"
+        },
+        "Ratio of the reduction in malaria mortality to the reduction in malaria incidence": {
+            "val": [
+                1.0,
+                0.8,
+                0.8,
+                0.8,
+                1.0,
+                0.75,
+                1.0,
+                1.0,
+                1.0,
+                0.9,
+                0.87,
+                1.0
+            ],
+            "dist": "array"
+        },
+        "Replicability adustment - SMC": {
+            "val": [
+                0.9,
+                0.9,
+                0.9,
+                0.7,
+                0.9,
+                0.8,
+                0.9,
+                0.9,
+                0.85,
+                0.85,
+                0.9,
+                0.8
+            ],
+            "dist": "array"
+        },
+        "If malaria were eliminated, the fraction of all-cause mortality that would be averted in 3- to 59-month olds in ACCESS-SMC countries": {
+            "val": [
+                0.43,
+                0.52,
+                0.4,
+                0.4,
+                0.4,
+                0.52,
+                0.4,
+                0.4,
+                0.4,
+                0.4,
+                0.4,
+                0.4
+            ],
+            "dist": "array"
+        }
+    }
+}

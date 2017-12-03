@@ -1,0 +1,140 @@
+{
+    "title": "Estimating the cost-effectiveness of research into neglected diseases",
+    "description": "http://www.fhi.ox.ac.uk/research-into-neglected-diseases/",
+    "source": "https://docs.google.com/spreadsheets/d/1yjgr0aiHTQF4i5jMy4Q-MI1TLWC6sMoS14MorZc6nNw/edit#gid=6",
+    "data": {
+        "Meningititis": {
+            "disease": "Meningititis",
+            "dist": "lognorm",
+            "sigma": 4.4634250810000005,
+            "group": "Meningitis",
+            "mu": -2.503745017
+        },
+        "Leishmaniasis": {
+            "disease": "Leishmaniasis",
+            "dist": "lognorm",
+            "sigma": 4.721701748,
+            "group": "Parasitic and vector diseases",
+            "mu": -3.7066624619999997
+        },
+        "Trachoma": {
+            "disease": "Trachoma",
+            "dist": "lognorm",
+            "sigma": 3.69371884,
+            "group": "Trachoma",
+            "mu": -3.984676238
+        },
+        "Diarrhoeal diseases": {
+            "disease": "Diarrhoeal diseases",
+            "dist": "lognorm",
+            "sigma": 4.391203354,
+            "group": "Diarrhoeal disease",
+            "mu": -1.466691631
+        },
+        "Ascariasis": {
+            "disease": "Ascariasis",
+            "dist": "lognorm",
+            "sigma": 3.776169898,
+            "group": "Helminths",
+            "mu": -1.8944810159999999
+        },
+        "Schistosomiasis": {
+            "disease": "Schistosomiasis",
+            "dist": "lognorm",
+            "sigma": 3.742827435,
+            "group": "Parasitic and vector diseases",
+            "mu": -3.354314295
+        },
+        "Chagas disease": {
+            "disease": "Chagas disease",
+            "dist": "lognorm",
+            "sigma": 4.740729573,
+            "group": "Parasitic and vector diseases",
+            "mu": -4.955052734
+        },
+        "Hookworm": {
+            "disease": "Hookworm",
+            "dist": "lognorm",
+            "sigma": 3.7452200689999997,
+            "group": "Helminths",
+            "mu": -2.221466538
+        },
+        "Onchocerciasis": {
+            "disease": "Onchocerciasis",
+            "dist": "lognorm",
+            "sigma": 3.718195094,
+            "group": "Parasitic and vector diseases",
+            "mu": -4.002001585
+        },
+        "Leprosy": {
+            "disease": "Leprosy",
+            "dist": "lognorm",
+            "sigma": 4.843503587,
+            "group": "Leprosy",
+            "mu": -5.014959809
+        },
+        "Dengue": {
+            "disease": "Dengue",
+            "dist": "lognorm",
+            "sigma": 3.09277015,
+            "group": "Parasitic and vector diseases",
+            "mu": -5.767322396
+        },
+        "TB": {
+            "disease": "TB",
+            "dist": "lognorm",
+            "sigma": 4.086303957,
+            "group": "TB",
+            "mu": -3.587428094
+        },
+        "Trichuriasis": {
+            "disease": "Trichuriasis",
+            "dist": "lognorm",
+            "sigma": 3.8638216639999996,
+            "group": "Helminths",
+            "mu": -1.937768034
+        },
+        "Multiple salmonella infections": {
+            "disease": "Multiple salmonella infections",
+            "dist": "lognorm",
+            "sigma": 4.127970943,
+            "group": "Meningitis",
+            "mu": -1.895189035
+        },
+        "HIV": {
+            "disease": "HIV",
+            "dist": "lognorm",
+            "sigma": 4.358866633,
+            "group": "HIV",
+            "mu": -3.783888495
+        },
+        "Malaria": {
+            "disease": "Malaria",
+            "dist": "lognorm",
+            "sigma": 4.437962491,
+            "group": "Malaria",
+            "mu": -3.161076253
+        },
+        "Typhoid and paratyphoid fever": {
+            "disease": "Typhoid and paratyphoid fever",
+            "dist": "lognorm",
+            "sigma": 4.327229248,
+            "group": "Meningitis",
+            "mu": -2.798470257
+        },
+        "Trypanosomiasis": {
+            "disease": "Trypanosomiasis",
+            "dist": "lognorm",
+            "sigma": 4.895739417,
+            "group": "Parasitic and vector diseases",
+            "mu": -5.296044461
+        },
+        "Lymphatic filariasis": {
+            "disease": "Lymphatic filariasis",
+            "dist": "lognorm",
+            "sigma": 3.724580105,
+            "group": "Parasitic and vector diseases",
+            "mu": -2.84335377
+        }
+    }
+}
