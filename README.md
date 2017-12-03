@@ -1,4 +1,4 @@
-## Are there returns to risk taking in altruism?
+## Are there returns to risk taking in science, philanthropy, or public policy?
 
 This is repo contains the code and data for my [post](https://pstblog.com/2017/12/02/risk-return) about the returns to risk taking in science, philanthropy, and public policy.  This is a follows on my [earlier writing](https://github.com/psthomas/efficient-frontier) about the efficient frontier of philanthropy.  
 
