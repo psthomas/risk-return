@@ -1,0 +1,54 @@
+condition,intervention,cost_effectiveness(USD/DALY),cost_effectiveness_range(USD/DALY),cost_effectiveness(lower_bound),cost_effectiveness(upper_bound),cost_effectiveness(DALY/1000USD),Spread(DALY/1000USD),quality_of_ evidence
+Congestive heart failure,"ACE inhibitor and beta-blocker, with diuretics",150,27-274,27,274,6.666666667,4.048582996,5
+Alcohol abuse,Advertising ban and reduced access to beverage retail,404,367-441,367,441,2.475247525,13.51351351,5
+Lymphatic filariasis,Annual mass drug administration,15,4-27,4,27,66.66666667,43.47826087,4 (South Asia)
+Schizophrenia,"Antipsychotic drugs with optional psychosocial treatment, communitybased","9,834","2,472-17,197","2,472","17,197",0.1016880212,0.06791171477,5
+Schizophrenia,"Antipsychotic drugs with optional psychosocial treatment, hospitalbased","11,920","4,105-19,736","4,105","19,736",0.08389261745,0.06397543343,5
+HIV/AIDS,Antiretroviral therapy,922,"350-1,494",350,"1,494",1.084598698,0.8741258741,3 (Sub-Saharan Africa)
+Stroke (recurrent),Aspirin and dipyridamole,81,70-93,70,93,12.34567901,43.47826087,5
+Ischemic heart disease,"Aspirin, betablocker, and optional ACE inhibitor",688,451-926,451,926,1.453488372,2.105263158,5
+Parkinson's disease,Ayurvedic treatment and levodopa or carbidopa,"1,132","752-1,512",752,"1,512",0.8833922261,1.315789474,5
+Tuberculosis (endemic),BCG vaccine,68,55-82,55,82,14.70588235,37.03703704,5
+HIV/AIDS,Blood and needle safety,84,7-61,7,61,11.9047619,18.51851852,2 (SubSaharan Africa)
+Lower acute respiratory infections (nonsevere),Case management at community or facility level,129,50-208,50,208,7.751937984,6.329113924,5
+Lower acute respiratory infections (severe and very severe),Case management at hospital level,"4,530","2,916-6,144","2,916","6,144",0.2207505519,0.3097893432,5
+Diarrheal disease,Cholera or rotavirus immunization,"2,712","2,478-2,945","2,487","2,945",0.3687315634,2.183406114,5
+HIV/AIDS,Condom promotion and distribution,82,52-112,52,112,12.19512195,16.66666667,1 (SubSaharan Africa)
+Diarrheal disease,Construction and promotion of basic sanitation where facilities are limited,141,11-270,11,270,7.092198582,3.861003861,1
+Lymphatic filariasis,Diethyl carbamazine salt,22,1-43,1,43,45.45454545,23.80952381,4 (South Asia)
+"Tuberculosis (endemic, infectious or noninfectious)",Directly observed short-course chemotherapy,301,84-551,84,551,3.322259136,2.141327623,5
+"Tuberculosis (epidemic, infectious)",Directly observed short-course chemotherapy,102,15-189,15,189,9.803921569,5.747126437,5
+Depression,Drugs with optional episodic or maintenance psychosocial treatment,"1,699","657-2,741",657,"2,741",0.5885815185,0.4798464491,5
+Panic disorder,Drugs with optional psychosocial treatment,734,"384-1,084",384,"1,084",1.36239782,1.428571429,5
+Traffic accidents,"Enforcement of seatbelt laws, promotion of child restraints and random driver breath testing","2,449","999-3,899",999,"3,899",0.4083299306,0.3448275862,5
+Alcohol abuse,Excise tax,"1,377","1,249-1,504","1,249","1,504",0.7262164125,3.921568627,5
+Alcohol abuse,"Excise tax, advertising ban, with brief advice",631,601-661,601,661,1.584786054,16.66666667,5
+Neonatal mortality,"Family, community, or clinical neonatal package",345,338-351,338,351,2.898550725,76.92307692,"4 (South Asia), 5 (Sub-Saharan Africa)"
+Stroke (ischemic),Heparin and recombinant tissue plasminogen activator,"1,977","1,278-2,675","1,278","2,675",0.5058168943,0.7158196135,5
+Diarrheal disease,Improved water and sanitation at current coverage of amenities and other interventions,"4,185","1,974-6,390","1,974","6,390",0.238948626,0.2264492754,5
+Traffic accidents,"Increased speeding penalties, enforcement, media campaigns, and speed bumps",21,3-38,3,38,47.61904762,28.57142857,5
+Malaria,Insecticidetreated bednets,11,5-17,5,17,90.90909091,83.33333333,5 (SubSaharan Africa)
+Malaria,Intermittent preventive treatment in pregnancy with drug other than sulfadoxinepyrimethamine,7,2-11,2,11,142.8571429,111.1111111,5 (Sub-Saharan Africa)
+Malaria,Intermittent preventive treatment in pregnancy with sulfadoxinepyrimethamine,19,13-24,13,24,52.63157895,90.90909091,5 (Sub-Saharan Africa)
+"Tuberculosis (endemic, latent)",Isoniazid treatment,"13,158","9,450-16,867","9,450","16,867",0.075999392,0.1348254011,5
+"Tuberculosis (epidemic, latent)",Isoniazid treatment,197,45-348,45,348,5.076142132,3.300330033,5
+Coronary artery disease,Legislation substituting 2% of trans fat with polyunsaturated fat at $6 per adult,838,"199-1,478",199,"1,478",1.193317422,0.7818608288,5
+Bipolar disorder,"Lithium, valproate, with optional psy-chosocial treatment, community-based","3,113","2,498-3,728","2,498","3,728",0.3212335368,0.8130081301,5
+Bipolar disorder,"Lithium, valproate, with optional psychosocial treatment, hospital-based","4,417","3,590-5,244","3,590","5,244",0.2263980077,0.6045949214,5
+Tuberculosis (endemic),Management of drug resistance,318,208-429,208,429,3.144654088,4.524886878,5
+Tuberculosis (epidemic),Management of drug resistance,207,201-212,201,212,4.830917874,90.90909091,5
+HIV/AIDS,Mother-to-child transmission prevention,192,7-377,7,377,5.208333333,2.702702703,2
+HIV/AIDS,Peer and education programs for high-risk groups,37,6-68,6,68,27.02702703,16.12903226,2
+Stroke and ischemic and hypertensive heart disease,Polypill by absolute risk approach,"2,128","773-3,483",773,"3,483",0.469924812,0.36900369,5
+Malaria,Residual household spraying,17,9-24,9,24,58.82352941,66.66666667,5 (SubSaharan Africa)
+Epilepsy (refractory),Second-line treatment with phenobarbital and lamotrigine or surgery,"3,027","2,994-3,060","2,994","3,060",0.3303600925,15.15151515,5
+Emergency medical care,Staffed community ambulance,120,60-179,60,179,8.333333333,8.403361345,5
+Ischemic heart disease,"Statin, with aspirin and betablocker with ACE inhibitor","2,028","1,864-2,193","1,864","2,193",0.4930966469,3.039513678,5
+Problems requiring surgery,Surgical ward or services in district hospital or community clinic,136,54-217,54,217,7.352941176,6.134969325,5
+Trachoma,Tetracycline or azithromycin,"6,269","3,752-8,785","3,752","8,785",0.1595150742,0.1986886549,3
+HIV/AIDS,Treatment of Kaposi's sarcoma,"52,449","34,968-69,930","34,968","69,930",0.01906614044,0.0286024827,3
+HIV/AIDS,Treatment of opportunistic infections,156,3-310,3,310,6.41025641,3.25732899,3
+HIV/AIDS,Tuberculosis coinfection prevention and treatment,121,6-35,6,35,8.26446281,34.48275862,2 (Sub-Saharan Africa)
+Dengue,Vector control,"2,566","1,992-3,139","1,992","3,139",0.3897116134,0.8718395815,2
+Lymphatic filariasis,Vector control,160,43-277,43,277,6.25,4.273504274,4 (South Asia)
+HIV/AIDS,Voluntary counseling and testing,47,10-85,10,85,21.27659574,13.33333333,2
