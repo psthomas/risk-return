@@ -1,0 +1,101 @@
+guidance_topic,comparator,median,range,num_estimates
+BA only (5 min), Background quit rate,732,577–1677,8.0
+BA [5 min plus nicotine replacement therapy (NRT)], Background quit rate,2110,1664–4833,8.0
+BA (5 min plus self-help), Background quit rate,370,292–847,8.0
+Interview, Advice,84,NA,1.0
+Exercise prescriptions, Advice,77,20–159,4.0
+Interviews with exercise voucher, Advice,227,NA,1.0
+Intensive interviews, Advice,105,NA,1.0
+Exercise prescription and exercise information, Advice,425,NA,1.0
+Exercise prescription with intensive general practitioner (GP) training, Advice,437,NA,1.0
+Intensive interviews with exercise voucher, Advice,430,NA,1.0
+Tailored skill session, Usual care—didactic messages,3200,NA,1.0
+Accelerated partner therapy—doxycycline, Patient referral,14025,9350–18700,2.0
+Accelerated partner therapy—azithromycin, Patient referral,19425,12950–25900,2.0
+Brief counselling, Didactic messages,12194,12308–12080,2.0
+Information and behaviour skills, Didactic information,10286,NA,1.0
+Information motivation and behaviour skills, Didactic information,14143,10286–18000,2.0
+Enhanced counselling, Didactic messages,45606,39600–51613,2.0
+Intensive counselling, Treatment as usual,24000,N/A,1.0
+Behavioural skills counselling, Standard 15 min risk reduction counselling,96000,N/A,1.0
+Life-skills training, Normal education,3492,1296–6846,3.0
+‘Say yes first’, Normal education,90786,N/A,1.0
+Teacher training, 157 384,N/A,1,
+The abecedarian project, Normal child rearing,195225,NA,1.0
+Brief advice plus self-help material, Background quit rate,Dominates,NA,1.0
+Brief advice plus self-help material plus NRT, Background quit rate,Dominates,NA,1.0
+Brief advice plus self-help material plus NRT plus specialist clinic, Background quit rate,Dominates,NA,1.0
+Less intensive counselling and bupropion, Background quit rate,Dominates,NA,1.0
+More intensive counselling and bupropion, Background quit rate,Dominates,NA,1.0
+BA, Background quit rate,Dominates,NA,1.0
+Mass media to promote healthy eating, No intervention,87,NA,1.0
+Urban trail, No intervention,10445,2640–25150,4.0
+Brief advice, Background quit rate,Dominates,NA,1.0
+Nicotine patch—pharmacy consultation, Background quit rate,Dominates,NA,1.0
+Nicotine patch—pharmacy consultation + behavioural programme, Background quit rate,Dominates,NA,1.0
+Brief advice plus self-help material, Background quit rate,Dominates,NA,1.0
+Brief advice plus self-help material plus NRT, Background quit rate,984,NA,1.0
+Brief advice plus self-help material plus NRT plus specialist clinic, Background quit rate,Dominates,NA,1.0
+Less intensive counselling and bupropion, Background quit rate,Dominates,NA,1.0
+More intensive counselling and bupropion, Background quit rate,Dominates,NA,1.0
+Nicotine patch—group counselling, Background quit rate,Dominates,NA,1.0
+Nicotine patch—individual counselling, Background quit rate,Dominates,NA,1.0
+Nicotine patch—no counselling, Background quit rate,Dominates,NA,1.0
+Universal intervention (emotional function only), No intervention,10594,NA,1.0
+Universal intervention (emotion + cognition), No intervention,5278,NA,1.0
+Focussed intervention (1 level improvement), No intervention,988404,NA,1.0
+Focussed intervention (two-level improvement), No intervention,177560,NA,1.0
+PA counselling, No intervention,864,495–1234,2.0
+PA walking programme, No intervention,686,NA,1.0
+Mass-media intervention, Background quit rate,49,NA,1.0
+Point-of-sale intervention, Background quit rate,1690,NA,1.0
+Smoking cessation—general population: incentive schemes workplace, WI with no incentive,2089,NA,1.0
+Smoking cessation—general population: incentive schemes NRT, Intervention no NRT,358,45–671,2.0
+Smoking cessation—general population: incentive schemes NRT, Intervention with free guide but no free aid offered,Dominated,NA,1.0
+Smoking cessation—general population: client centred, Background quit rate; no intervention or usual care,50,0–437,8.0
+Smoking cessation—general population: proactive telephone counselling, Usual care or intervention but no telephone counselling,427,139–1602,9.0
+Smoking cessation—general population: proactive telephone counselling, Intervention but no telephone counselling,Dominated,NA,4.0
+Smoking cessation—general population: recruitment to quit and win, Background quit rate; no intervention or advice,260,77–13500,15.0
+Smoking cessation—general population: recruitment to quit and win, Intervention or no intervention,Dominated,NA,3.0
+Smoking cessation—general population: identify smokers through other means, No intervention,504,78–4178,4.0
+Smoking cessation—general population: identify smokers through other means, No intervention,Dominated,NA,1.0
+Smoking cessation—general population: drop-in/rolling community based, Background quit rate,91,NA,1.0
+Smoking cessation—general population: pharmacist based, Usual care,546,438–655,2.0
+Smoking cessation —general population: dentist based, Usual care,302,269–360,3.0
+Smoking cessation—general population: dentist based, Usual care (query contamination),Dominated,NA,1.0
+Smoking cessation—disadvantaged groups: client-centred social marketing, No intervention,1564,420–6412,3.0
+Smoking cessation—disadvantaged groups: workplace, No intervention,1399,NA,1.0
+Smoking cessation—disadvantaged groups: BA pregnant women, Usual care,1593,NA,1.0
+Smoking cessation—disadvantaged groups: proactive telephone support pregnant women, Intervention but no offer of telephone support,5992,NA,1.0
+Smoking cessation—disadvantaged groups: incentive NRT prescription, No intervention,1627,NA,1.0
+Smoking cessation—disadvantaged groups: recruitment at paediatric unit, Usual care,1837,NA,1.0
+Smoking cessation—disadvantaged groups: NHS SSS, No intervention,2686,2535–2837,2.0
+Smoking cessation—disadvantaged groups: pharmacist based, No intervention,3151,1030–5272,2.0
+Statins—general population: pharmacist based, Usual care or no intervention,4892,1648–8234,4.0
+Statins—disadvantaged groups: culturally sensitive screening, No intervention,4260,NA,1.0
+Statins—disadvantaged groups: invitation for screening by GP, Usual care or no intervention,4346,4000–4692,2.0
+Tri-weekly walking programme after 6 months, Information and education,7400,NA,1.0
+Advice about PA, Usual care,35900,26200–45600,2.0
+Advice about PA, Nutrition advice,Dominated,NA,1.0
+Walking buses, No intervention,4007,NA,1.0
+Dance class programme, No intervention,27570,NA,1.0
+Free swimming, No intervention,40462,NA,1.0
+Community sports, No intervention,71456,NA,1.0
+WI, Usual care for musculoskeletal disorders,Dominates,NA,1.0
+PA and education, Usual care for musculoskeletal disorders,2758,NA,1.0
+PA and education and workplace visit, Usual care for musculoskeletal disorders,Dominates,NA,1.0
+Internet-based expert system + peer initiative to reduce bullying and victimization, No intervention,9600,NA,1.0
+Individual stress management, No intervention,4998,3470–15031,3.0
+Curricular, No intervention or standard education,7200,2030–12700,4.0
+Screening and BA at GP registration, No intervention,6500,NA,1.0
+Screening and BA at GP registration, No intervention,Dominates,NA,7.0
+Screening and BA during GP consultation, No intervention,3300,0–6600,3.0
+Screening and BA during GP consultation, No intervention,Dominates,NA,2.0
+Screening and BA during A and E consultation, No intervention,10400,NA,1.0
+North Karelia Project, No intervention,7000,NA,1.0
+Cognitive behaviour strategies, No intervention (aggregate of controls),4005,NA,1.0
+Stages of change, No intervention (aggregate of controls),3033,NA,1.0
+Feedback, No intervention (aggregate of controls),1992,NA,1.0
+Rewards, No intervention (aggregate of controls),Dominates,NA,1.0
+Pharmacotherapies, No intervention (aggregate of controls),2253,NA,1.0
+Other, No intervention (aggregate of controls),Dominates,NA,1.0
