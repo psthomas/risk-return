@@ -4,4 +4,5 @@ notes/*
 returns_scraps.ipynb
 *.pickle
 data/eco_pages.csv
-
+data/GHCEA_manualintervals.numbers
+meta_scraps.ipynb
