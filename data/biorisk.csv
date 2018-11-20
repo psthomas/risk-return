@@ -1,0 +1,7 @@
+intervention,range_lower,range_upper,title,authors,url,description
+Health Systems - Biothreat Indicative Incident,25000000,250000000,Existential Risk and Cost-Effective Biosecurity,Piers Millett and Andrew Snyder-Beattie,https://doi.org/10.1089/hs.2017.0028,$25m-$250m cost per life-year saved range
+Health Systems - Biothreat Indicative Event,2500000,25000000,Existential Risk and Cost-Effective Biosecurity,Piers Millett and Andrew Snyder-Beattie,https://doi.org/10.1089/hs.2017.0028,$2.5m-$25m cost per life-year saved range
+Health Systems - Biothreat Indicative Disaster,250000,25000000,Existential Risk and Cost-Effective Biosecurity,Piers Millett and Andrew Snyder-Beattie,https://doi.org/10.1089/hs.2017.0028,$250k-$25m cost per life-year saved range
+Health Systems - Biothreat Existential Risk Model 1,0.125,5.00,Existential Risk and Cost-Effective Biosecurity,Piers Millett and Andrew Snyder-Beattie,https://doi.org/10.1089/hs.2017.0028,$0.125-$5.00 cost per life-year saved range
+Health Systems - Biothreat Existential Risk Model 2,31.00,1600.00,Existential Risk and Cost-Effective Biosecurity,Piers Millett and Andrew Snyder-Beattie,https://doi.org/10.1089/hs.2017.0028,$31-$1600 cost per life-year saved range
+Health Systems - Biothreat Existential Risk Model 3,18.00,50.00,Existential Risk and Cost-Effective Biosecurity,Piers Millett and Andrew Snyder-Beattie,https://doi.org/10.1089/hs.2017.0028,$18-$50 cost per life-year saved range
