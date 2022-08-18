@@ -1,39 +1,39 @@
 intervention,cost_effectiveness,stdev,source
-Research - HIV,303.6788321,23736.173393361463,FHI
-Research - Malaria,801.6557552999999,67817.2531556002,FHI
-Research - TB,116.92257009999999,6958.190391689557,FHI
-Research - Diarrhoeal diseases,3549.783221,286578.6965590446,FHI
-Research - Hookworm,120.52655990000001,5099.0571812595,FHI
-Research - Ascariasis,187.7757689,8193.987406358423,FHI
-Research - Trichuriasis,251.3360511,11972.794951650587,FHI
-Research - Lymphatic filariasis,59.91307178,2482.9031096929875,FHI
-Research - Schistosomiasis,38.47714042,1623.9408994361875,FHI
-Research - Onchocerciasis,18.36571832,756.2606520824662,FHI
-Research - Dengue,0.3735479903,8.223786927174988,FHI
-Research - Leishmaniasis,1703.723172,191421.5566238122,FHI
-Research - Chagas disease,534.9673442,61260.90487924331,FHI
-Research - Trypanosomiasis,802.7856649,107344.56932565401,FHI
-Research - Meningititis,1732.5276829999998,150346.12251771212,FHI
-Research - Typhoid and paratyphoid fever,709.0926718,53697.85267439134,FHI
-Research - Multiple salmonella infections,753.6160471,46757.22591019181,FHI
-Research - Leprosy,824.5218899,104639.48389870102,FHI
-Research - Trachoma,17.06625626,685.7495338323076,FHI
-Deworm the World,12.039436799377382,11.307933850696788,GW
-Schistosomiasis Control Initiative,9.064981033005992,8.657475087774499,GW
-Sightsavers,4.8944702111241245,4.598517108864676,GW
-GiveDirectly,1.060327928590548,0.38096115201768715,GW
-Against Malaria Foundation,3.572679373597565,2.964296538367636,GW
-Malaria Consortium,3.222605618329421,2.162316158738712,GW
-iodine supplementation,41.41890997158105,41.364215337848066,GW
-Household lead pipe replacement,4.519663487284017,14.533889728565203,GW
+Research - HIV,303.6788321,2132.474085938947,FHI
+Research - Malaria,801.6557553,7066.975303838826,FHI
+Research - TB,116.9225701,5881.619342891954,FHI
+Research - Diarrhoeal diseases,3549.783221,80857.23170737825,FHI
+Research - Hookworm,120.5265599,937.0801435807155,FHI
+Research - Ascariasis,187.7757689,1946.7857319239304,FHI
+Research - Trichuriasis,251.3360511,13978.148010717925,FHI
+Research - Lymphatic filariasis,59.91307178,988.9199508695033,FHI
+Research - Schistosomiasis,38.47714042,511.8974487113202,FHI
+Research - Onchocerciasis,18.36571832,271.15840880247396,FHI
+Research - Dengue,0.3735479903,2.1905065776514983,FHI
+Research - Leishmaniasis,1703.723172,8363.477588591142,FHI
+Research - Chagas disease,534.9673442,6210.949437209895,FHI
+Research - Trypanosomiasis,802.7856649,110366.39343898969,FHI
+Research - Meningititis,1732.527683,41075.26207567978,FHI
+Research - Typhoid and paratyphoid fever,709.0926718,30713.464548517866,FHI
+Research - Multiple salmonella infections,753.6160471,16466.17115943826,FHI
+Research - Leprosy,824.5218899,71250.2507865326,FHI
+Research - Trachoma,17.06625626,252.77368468943686,FHI
+Deworm the World,12.039436799377357,11.307933850696827,GW
+Schistosomiasis Control Initiative,9.064981033005921,8.657475087774394,GW
+Sightsavers,4.8944702111241565,4.598517108864698,GW
+GiveDirectly,1.0603279285905725,0.3809611520176938,GW
+Against Malaria Foundation,3.5726793735975755,2.964296538367648,GW
+Malaria Consortium,3.2226056183293705,2.162316158738706,GW
+Iodine supplementation,41.418909971579815,41.36421533784796,GW
+Household lead pipe replacement,4.519663487284031,14.53388972857562,GW
 "ACE inhibitor and beta-blocker, with diuretics",6.666666667,2.024291498,DCP2
 Advertising ban and reduced access to beverage retail,2.475247525,6.756756755,DCP2
 Annual mass drug administration,66.66666667,21.739130435,DCP2
-"Antipsychotic drugs with optional psychosocial treatment, communitybased",0.10168802119999999,0.033955857385,DCP2
-"Antipsychotic drugs with optional psychosocial treatment, hospitalbased",0.08389261745,0.031987716714999996,DCP2
+"Antipsychotic drugs with optional psychosocial treatment, communitybased",0.1016880212,0.033955857385,DCP2
+"Antipsychotic drugs with optional psychosocial treatment, hospitalbased",0.08389261745,0.031987716715,DCP2
 Antiretroviral therapy,1.084598698,0.43706293705,DCP2
 Aspirin and dipyridamole,12.34567901,21.739130435,DCP2
-"Aspirin, betablocker, and optional ACE inhibitor",1.4534883719999998,1.052631579,DCP2
+"Aspirin, betablocker, and optional ACE inhibitor",1.453488372,1.052631579,DCP2
 Ayurvedic treatment and levodopa or carbidopa,0.8833922261,0.657894737,DCP2
 BCG vaccine,14.70588235,18.51851852,DCP2
 Blood and needle safety,11.9047619,9.25925926,DCP2
@@ -41,43 +41,43 @@ Case management at community or facility level,7.751937984,3.164556962,DCP2
 Case management at hospital level,0.2207505519,0.1548946716,DCP2
 Cholera or rotavirus immunization,0.3687315634,1.091703057,DCP2
 Condom promotion and distribution,12.19512195,8.333333335,DCP2
-Construction and promotion of basic sanitation where facilities are limited,7.092198582000001,1.9305019305000002,DCP2
+Construction and promotion of basic sanitation where facilities are limited,7.092198582,1.9305019305,DCP2
 Diethyl carbamazine salt,45.45454545,11.904761905,DCP2
-Directly observed short-course chemotherapy,3.3222591360000004,1.0706638115,DCP2
+Directly observed short-course chemotherapy,3.322259136,1.0706638115,DCP2
 Directly observed short-course chemotherapy,9.803921569,2.8735632185,DCP2
-Drugs with optional episodic or maintenance psychosocial treatment,0.5885815185000001,0.23992322454999998,DCP2
+Drugs with optional episodic or maintenance psychosocial treatment,0.5885815185,0.23992322455,DCP2
 Drugs with optional psychosocial treatment,1.36239782,0.7142857145,DCP2
 "Enforcement of seatbelt laws, promotion of child restraints and random driver breath testing",0.4083299306,0.1724137931,DCP2
 Excise tax,0.7262164125,1.9607843135,DCP2
 "Excise tax, advertising ban, with brief advice",1.584786054,8.333333335,DCP2
 "Family, community, or clinical neonatal package",2.898550725,38.46153846,DCP2
-Heparin and recombinant tissue plasminogen activator,0.5058168943,0.35790980674999995,DCP2
-Improved water and sanitation at current coverage of amenities and other interventions,0.23894862600000003,0.11322463769999999,DCP2
+Heparin and recombinant tissue plasminogen activator,0.5058168943,0.35790980675,DCP2
+Improved water and sanitation at current coverage of amenities and other interventions,0.238948626,0.1132246377,DCP2
 "Increased speeding penalties, enforcement, media campaigns, and speed bumps",47.61904762,14.285714285,DCP2
 Insecticidetreated bednets,90.90909091,41.666666665,DCP2
 Intermittent preventive treatment in pregnancy with drug other than sulfadoxinepyrimethamine,142.8571429,55.55555555,DCP2
 Intermittent preventive treatment in pregnancy with sulfadoxinepyrimethamine,52.63157895,45.454545455,DCP2
 Isoniazid treatment,0.075999392,0.06741270055,DCP2
-Isoniazid treatment,5.076142132,1.6501650165000001,DCP2
+Isoniazid treatment,5.076142132,1.6501650165,DCP2
 Legislation substituting 2% of trans fat with polyunsaturated fat at $6 per adult,1.193317422,0.3909304144,DCP2
-"Lithium, valproate, with optional psy-chosocial treatment, community-based",0.3212335368,0.40650406505000003,DCP2
+"Lithium, valproate, with optional psy-chosocial treatment, community-based",0.3212335368,0.40650406505,DCP2
 "Lithium, valproate, with optional psychosocial treatment, hospital-based",0.2263980077,0.3022974607,DCP2
-Management of drug resistance,3.1446540880000002,2.262443439,DCP2
+Management of drug resistance,3.144654088,2.262443439,DCP2
 Management of drug resistance,4.830917874,45.454545455,DCP2
 Mother-to-child transmission prevention,5.208333333,1.3513513515,DCP2
 Peer and education programs for high-risk groups,27.02702703,8.06451613,DCP2
 Polypill by absolute risk approach,0.469924812,0.184501845,DCP2
 Residual household spraying,58.82352941,33.333333335,DCP2
 Second-line treatment with phenobarbital and lamotrigine or surgery,0.3303600925,7.575757575,DCP2
-Staffed community ambulance,8.333333332999999,4.2016806725,DCP2
+Staffed community ambulance,8.333333333,4.2016806725,DCP2
 "Statin, with aspirin and betablocker with ACE inhibitor",0.4930966469,1.519756839,DCP2
 Surgical ward or services in district hospital or community clinic,7.352941176,3.0674846625,DCP2
-Tetracycline or azithromycin,0.1595150742,0.09934432744999999,DCP2
+Tetracycline or azithromycin,0.1595150742,0.09934432745,DCP2
 Treatment of Kaposi's sarcoma,0.01906614044,0.01430124135,DCP2
 Treatment of opportunistic infections,6.41025641,1.628664495,DCP2
 Tuberculosis coinfection prevention and treatment,8.26446281,17.24137931,DCP2
-Vector control,0.38971161340000005,0.43591979075000004,DCP2
-Vector control,6.25,2.1367521369999998,DCP2
+Vector control,0.3897116134,0.43591979075,DCP2
+Vector control,6.25,2.136752137,DCP2
 Voluntary counseling and testing,21.27659574,6.666666665,DCP2
 BA only (5 min),2.185792349726776,0.7272727272727273,NICE
 BA [5 min plus nicotine replacement therapy (NRT)],0.7582938388625593,0.2524455664247397,NICE
@@ -107,656 +107,656 @@ Advice about PA,0.04456824512534819,0.04123711340206186,NICE
 Individual stress management,0.32012805122048826,0.06919816624859441,NICE
 Curricular,0.22222222222222224,0.07497656982193066,NICE
 Screening and BA during GP consultation,0.48484848484848486,0.12121212121212122,NICE
-Intralesional and intramuscular administration of the pentavalent antimonial drug sodium stibogluconate,0.625,7.489027147041027,GHCEA
-Policy intervention to reduce sodium consumption by 10%,26.31578947368421,242.13310026955267,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.941176470588235,29.215781827424166,GHCEA
-Policy intervention to reduce sodium consumption by 10%,10.309278350515465,98.34420747401288,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.03571428571428572,0.34452326167468833,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,200.0,961.1786201119693,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),5.263157894736842,13.421091843512349,GHCEA
-Policy intervention to reduce sodium consumption by 10%,4.545454545454545,40.01177295766032,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.058823529411764705,0.5327731081111272,GHCEA
-Policy intervention to reduce sodium consumption by 10%,8.333333333333334,82.47830661939524,GHCEA
-Mass media campaign to promote tobacco cessation,0.2631578947368421,25.472247677479576,GHCEA
-Pharmacological therapy for high blood pressure,0.2941176470588235,58.86009911468893,GHCEA
-Pharmacological therapy of high cholesterol,0.058823529411764705,10.90370939127741,GHCEA
+Intralesional and intramuscular administration of the pentavalent antimonial drug sodium stibogluconate,0.625,0.9569811388415089,GHCEA
+Policy intervention to reduce sodium consumption by 10%,26.31578947368421,30.94084258176777,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.941176470588235,3.7333223149551866,GHCEA
+Policy intervention to reduce sodium consumption by 10%,10.309278350515465,12.566859462397796,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.03571428571428572,0.044024712000824084,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,200.0,121.59163449554671,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),5.263157894736842,1.715006703103699,GHCEA
+Policy intervention to reduce sodium consumption by 10%,4.545454545454545,5.112881993920738,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.058823529411764705,0.06808011317541614,GHCEA
+Policy intervention to reduce sodium consumption by 10%,8.333333333333334,10.539444209323499,GHCEA
+Mass media campaign to promote tobacco cessation,0.2631578947368421,3.2549569006274353,GHCEA
+Pharmacological therapy for high blood pressure,0.2941176470588235,7.5214047935925485,GHCEA
+Pharmacological therapy of high cholesterol,0.058823529411764705,1.393324396611958,GHCEA
 Rotarix vaccine,0.1388888888888889,0.189897455374098,GHCEA
-Therapy with Bupropion for Tobacco Cessation,0.014285714285714285,2.58673958715104,GHCEA
-Policy intervention to reduce sodium consumption by 10%,6.25,66.71302963149412,GHCEA
-Risperidone (5 mg/day),0.025,96.21144152879333,GHCEA
-Methylphenidate,0.08333333333333333,0.6190348563480501,GHCEA
-SunSmart program (skin cancer prevention program) in a well-resourced state,0.07142857142857144,0.7985549646889848,GHCEA
-Cognitive behavioral therapy with private psychiatrists,0.052631578947368425,0.3471978107343412,GHCEA
-Pre-diabetes screen screen plus diet and exercise to prevent or slow the onset of diabetes,0.05,0.49909685293061545,GHCEA
-Multiple family groups:  Family engagement sessions and psychoeducation,0.06666666666666667,0.18571045690441504,GHCEA
-Active After-school Communities Program (AASC)--physical activity co-ordinators develop and deliver physical activity program specific to each school,0.01694915254237288,0.06388439717511878,GHCEA
-Residential treatment + naltrexone,0.01,0.09285522845220752,GHCEA
-Group-based psychological intervention following opportunistic screening  to prevent depression,0.058823529411764705,0.14788054901647862,GHCEA
-Angiotensin-converting enzyme (ACE) inhibitors via mainstream general practitioner to prevent cardiovascular disease,0.037037037037037035,0.2101460433392065,GHCEA
-Selective serotonin reuptake inhibitors as second line treatment,0.052631578947368425,0.1947695035826792,GHCEA
-Tricyclic antidepressants - imipramine,0.07142857142857144,0.24723063922259583,GHCEA
-Knee replacement surgery,0.1,1.5971099293779696,GHCEA
-Laparoscopic adjustable gastric banding plus standard care,0.3225806451612903,2.4799843623881515,GHCEA
-HMG-CoA reductase inhibitors (statins) via mainstream general practitioner to prevent cardiovascular disease,0.0196078431372549,0.3629795294040839,GHCEA
-Cognitive behavioral therapy,0.3448275862068965,2.5759837570612407,GHCEA
-"Looma Healthy Lifestyle- community based intervention to reduce morbidity from diabetes and cardiovascular disease including heath education, exercise",0.005555555555555556,0.03802642688995165,GHCEA
-Orlistat treatment,0.0047619047619047615,0.046973821452293216,GHCEA
-Nicotine replacement therapy for 6-12 weeks,0.0625,0.420292086678413,GHCEA
-Maintenance treatment with tricyclic antidepressants,0.2702702702702703,9.981937058612308,GHCEA
-Brief alcohol intervention + telemarketing + support,0.11494252873563218,0.44119058822595836,GHCEA
-Screening of children in preschool for depression and anxiety,0.12195121951219512,0.4137590490616501,GHCEA
-Walking School Bus (WSB) program to increase the number of children of primary school age walking to school (accompanied by volunteer adults),0.001851851851851852,0.002584320274074384,GHCEA
-Cognitive behavioral therapy-public psychiatrists,0.052631578947368425,0.33273123528707693,GHCEA
-Maintenance treatment with selective serotonin re-uptake inhibitors,0.06666666666666667,2.6618498822966155,GHCEA
-Drug treatment with selective serotonin re-uptake inhibitors SSRIs for acute episodes and 6 months continuation,0.08333333333333333,1.1407928066985495,GHCEA
-Residential treatment - alcohol,0.0058823529411764705,0.058717276815366516,GHCEA
-"Pre-diabetes screen plus Metformin, diet and exercise to prevent or slow the onset of diabetes",0.014285714285714285,0.06884094523180902,GHCEA
-Clozapine (400 mg/day),0.02857142857142857,0.25759837570612404,GHCEA
-"Current treatment: all patients receiving antipsychotic medication (haloperidol or other typical antipsychotic, atypical antipsychotic, clozapine) and smaller proportion receiving psychosocial intervention",0.005263157894736842,0.04597613923098093,GHCEA
-Olanzapine (15 mg/day),0.03225806451612903,0.3629795294040839,GHCEA
-Cognitive behavioral therapy with private psychiatrist,0.03571428571428572,0.12099317646802799,GHCEA
-Drink driving mass media,0.0625,0.020581313522911975,GHCEA
-Trauma focused cognitive behavioral therapy 8-12 individual weekly sessions,0.11363636363636363,0.39144851210244347,GHCEA
-Hip replacement surgery,0.23255813953488375,3.9927748234449236,GHCEA
-Clozapine (400 mg/day),0.052631578947368425,0.2661849882296615,GHCEA
-Behavioral family management,0.05,0.15657940484097738,GHCEA
-Pre-diabetes screen plus Orlistat to prevent or slow the onset of diabetes,0.011494252873563218,0.22182082352471796,GHCEA
-Education to improve decision making relating to prostate specific antigen testing,0.1,0.4304878515843583,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.1235955056179776,11.09951997621773,GHCEA
-Cognitive behavioral therapy-public psychologist,0.17543859649122806,0.9981937058612309,GHCEA
-Serotonin reuptake inhibitors - paroxetine,0.03225806451612903,0.12879918785306202,GHCEA
-Treatment with bupropion for a period of 7 weeks,0.12987012987012986,1.9963874117224618,GHCEA
-Olanzapine (15 mg/day),0.013157894736842106,0.06825256108452861,GHCEA
-Indicated psychological interventions,0.05,0.14889524252106665,GHCEA
-Trauma focused cognitive behavioral therapy 8-12 individual weekly sessions,0.05555555555555556,0.7259590588081678,GHCEA
-Tricyclic antidepressants TCAs for acute major depressive episodes plus a 6-month continuation phase after remission of symptoms,0.2173913043478261,2.6618498822966155,GHCEA
-Sibutramine treatment,0.008333333333333333,0.08872832940988719,GHCEA
-Pre-diabetes screen plus Acarbose to prevent or slow the onset of diabetes,0.03125,0.07326192336596188,GHCEA
-Cognitive behavioral therapy-public psychiatrist,0.04761904761904762,0.215825666132158,GHCEA
-Cognitive behavioral therapy with public psychologist,0.20833333333333334,0.7194188871071934,GHCEA
-Pre-diabetes screen plus exercise to prevent or slow the onset of diabetes,0.038461538461538464,0.12099317646802799,GHCEA
-Pre-diabetes screen plus diet to prevent or slow the onset of diabetes,0.030303030303030304,0.06388439717511878,GHCEA
-Risperidone (5 mg/day),0.058823529411764705,665.4624705741538,GHCEA
-Low dose diuretics to prevent cardiovascular disease,0.10416666666666667,0.3442047261590451,GHCEA
-Cognitive dissonance – school based bulimia and anorexia preventative intervention,0.00909090909090909,0.08441027490264522,GHCEA
-Cognitive behavioral therapy with public psychiatrist,0.038461538461538464,0.12285460995215149,GHCEA
-"Optimal treatment with antipsychotic medication (haloperidol or other typical antipsychotic, atypical antipsychotic, clozapine) and psychosocial intervention based on severity groups",0.01,0.05480666039978207,GHCEA
-Serotonin and noradrenaline reuptake inhibitors - venlafaxine,0.052631578947368425,0.33273123528707693,GHCEA
-Cognitive behavioral therapy individual sessions plus two parent/family sessions + general practitioner (GP) visit for diagnosis and referral,0.04347826086956522,0.14009736222613767,GHCEA
-Cognitive behavioral therapy-public psychologist,0.052631578947368425,0.2661849882296615,GHCEA
-Pre-diabetes screen plus Metformin to prevent or slow the onset of diabetes,0.052631578947368425,0.420292086678413,GHCEA
-Selective serotonin reuptake inhibitors as first-line treatment,0.052631578947368425,0.1996387411722462,GHCEA
-Behavioral intervention in families,0.18518518518518517,0.5703964033492748,GHCEA
-Cognitive behavioral therapy-private psychologist,0.058823529411764705,0.3802642688995166,GHCEA
-General practitioner referral to exercise physiologist,0.015384615384615384,0.07066858094592784,GHCEA
-Brief alcohol intervention,0.16949152542372883,1.5971099293779696,GHCEA
-Cognitive behavioral therapy-private psychiatrist,0.04545454545454545,0.27536378092723607,GHCEA
-Cognitive behavioral therapy with public psychologist,0.13513513513513514,0.39729102720845005,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.6129032258064515,15.936040005767003,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.1739130434782608,23.029703379639066,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.12987012987012986,1.1889256108200186,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.2127659574468085,2.1942784101410306,GHCEA
-Community health workerss received training to implement the community case management of severe acute malnutrition,34.48275862068965,798.5549646889847,GHCEA
-Neonatal care package- 2 antenatal home visits by community health workers followed by 3 postnatal home visits,8.333333333333334,39.640355655943644,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.263157894736842,49.10256193131555,GHCEA
-"Community-based interventions for maternal and newborn health (e.g. pregnancy surveillance, birth preparedness, essential newborn care training, referral and/or home treatment for sepsis)",8.333333333333334,39.640355655943644,GHCEA
-Inpatient treatment for severe acute malnutrition,4.166666666666667,23.281485850990805,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.19607843137254902,1.957607212836177,GHCEA
-Policy intervention to reduce sodium consumption by 10%,7.6923076923076925,240.0946977417272,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.2820512820512822,13.110838718870832,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.1282051282051282,1.1670241758161075,GHCEA
-Antivenom for snakebite,11.627906976744185,39.20635136925494,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.492537313432836,10.10829069226563,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),6.25,29.576109803295726,GHCEA
-Policy intervention to reduce sodium consumption by 10%,6.666666666666667,60.38222795379846,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.4492753623188406,13.770563281410325,GHCEA
-Policy intervention to reduce sodium consumption by 10%,3.8461538461538463,36.6410463746437,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.5384615384615385,15.490881953229577,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.1111111111111112,8.901515602374147,GHCEA
-Xpert MTB/RIF automated DNA test to detect tuberculosis and rifampicin (RIF) resistance,0.7142857142857143,5.291948076136413,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,19.230769230769234,8.775329282296536,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),0.10869565217391305,0.420292086678413,GHCEA
-Cochlear implant,0.02380952380952381,0.22221587396732653,GHCEA
-"Tuberculosis culture using the solid media, 24 patients/week",2.0,8.468239286203442,GHCEA
+Therapy with Bupropion for Tobacco Cessation,0.014285714285714285,0.330545069125072,GHCEA
+Policy intervention to reduce sodium consumption by 10%,6.25,8.524887120690902,GHCEA
+Risperidone (5 mg/day),0.025,12.294325160803627,GHCEA
+Methylphenidate,0.08333333333333333,0.07910302235245743,GHCEA
+SunSmart program (skin cancer prevention program) in a well-resourced state,0.07142857142857144,0.1020428988346701,GHCEA
+Cognitive behavioral therapy with private psychiatrists,0.052631578947368425,0.044366477754204395,GHCEA
+Pre-diabetes screen screen plus diet and exercise to prevent or slow the onset of diabetes,0.05,0.06377681177166881,GHCEA
+Multiple family groups:  Family engagement sessions and psychoeducation,0.06666666666666667,0.023730906705737232,GHCEA
+Active After-school Communities Program (AASC)--physical activity co-ordinators develop and deliver physical activity program specific to each school,0.01694915254237288,0.008163431906773608,GHCEA
+Residential treatment + naltrexone,0.01,0.011865453352868616,GHCEA
+Group-based psychological intervention following opportunistic screening  to prevent depression,0.058823529411764705,0.0188968331175315,GHCEA
+Angiotensin-converting enzyme (ACE) inhibitors via mainstream general practitioner to prevent cardiovascular disease,0.037037037037037035,0.026853394430176345,GHCEA
+Selective serotonin reuptake inhibitors as second line treatment,0.052631578947368425,0.024888511910895146,GHCEA
+Tricyclic antidepressants - imipramine,0.07142857142857144,0.03159222874138393,GHCEA
+Knee replacement surgery,0.1,0.2040857976693402,GHCEA
+Laparoscopic adjustable gastric banding plus standard care,0.3225806451612903,0.3169034125300314,GHCEA
+HMG-CoA reductase inhibitors (statins) via mainstream general practitioner to prevent cardiovascular disease,0.0196078431372549,0.04638313583394095,GHCEA
+Cognitive behavioral therapy,0.3448275862068965,0.3291706414021616,GHCEA
+"Looma Healthy Lifestyle- community based intervention to reduce morbidity from diabetes and cardiovascular disease including heath education, exercise",0.005555555555555556,0.004859185658793814,GHCEA
+Orlistat treatment,0.0047619047619047615,0.006002523460862947,GHCEA
+Nicotine replacement therapy for 6-12 weeks,0.0625,0.05370678886035269,GHCEA
+Maintenance treatment with tricyclic antidepressants,0.2702702702702703,1.2755362354333761,GHCEA
+Brief alcohol intervention + telemarketing + support,0.11494252873563218,0.05637729217385088,GHCEA
+Screening of children in preschool for depression and anxiety,0.12195121951219512,0.05287196830811922,GHCEA
+Walking School Bus (WSB) program to increase the number of children of primary school age walking to school (accompanied by volunteer adults),0.001851851851851852,0.0003302359185588029,GHCEA
+Cognitive behavioral therapy-public psychiatrists,0.052631578947368425,0.04251787451444587,GHCEA
+Maintenance treatment with selective serotonin re-uptake inhibitors,0.06666666666666667,0.340142996115567,GHCEA
+Drug treatment with selective serotonin re-uptake inhibitors SSRIs for acute episodes and 6 months continuation,0.08333333333333333,0.14577556976381445,GHCEA
+Residential treatment - alcohol,0.0058823529411764705,0.007503154326078684,GHCEA
+"Pre-diabetes screen plus Metformin, diet and exercise to prevent or slow the onset of diabetes",0.014285714285714285,0.008796801623678456,GHCEA
+Clozapine (400 mg/day),0.02857142857142857,0.03291706414021616,GHCEA
+"Current treatment: all patients receiving antipsychotic medication (haloperidol or other typical antipsychotic, atypical antipsychotic, clozapine) and smaller proportion receiving psychosocial intervention",0.005263157894736842,0.005875035197086177,GHCEA
+Olanzapine (15 mg/day),0.03225806451612903,0.04638313583394095,GHCEA
+Cognitive behavioral therapy with private psychiatrist,0.03571428571428572,0.015461045277980319,GHCEA
+Drink driving mass media,0.0625,0.0026299716194502602,GHCEA
+Trauma focused cognitive behavioral therapy 8-12 individual weekly sessions,0.11363636363636363,0.050021028840524555,GHCEA
+Hip replacement surgery,0.23255813953488375,0.5102144941733505,GHCEA
+Clozapine (400 mg/day),0.052631578947368425,0.0340142996115567,GHCEA
+Behavioral family management,0.05,0.020008411536209823,GHCEA
+Pre-diabetes screen plus Orlistat to prevent or slow the onset of diabetes,0.011494252873563218,0.02834524967629725,GHCEA
+Education to improve decision making relating to prostate specific antigen testing,0.1,0.05500964896747714,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.1235955056179776,1.4183459425209548,GHCEA
+Cognitive behavioral therapy-public psychologist,0.17543859649122806,0.12755362354333763,GHCEA
+Serotonin reuptake inhibitors - paroxetine,0.03225806451612903,0.01645853207010808,GHCEA
+Treatment with bupropion for a period of 7 weeks,0.12987012987012986,0.25510724708667526,GHCEA
+Olanzapine (15 mg/day),0.013157894736842106,0.00872161528501454,GHCEA
+Indicated psychological interventions,0.05,0.019026495158612416,GHCEA
+Trauma focused cognitive behavioral therapy 8-12 individual weekly sessions,0.05555555555555556,0.0927662716678819,GHCEA
+Tricyclic antidepressants TCAs for acute major depressive episodes plus a 6-month continuation phase after remission of symptoms,0.2173913043478261,0.340142996115567,GHCEA
+Sibutramine treatment,0.008333333333333333,0.0113380998705189,GHCEA
+Pre-diabetes screen plus Acarbose to prevent or slow the onset of diabetes,0.03125,0.009361733838043127,GHCEA
+Cognitive behavioral therapy-public psychiatrist,0.04761904761904762,0.02757916184720813,GHCEA
+Cognitive behavioral therapy with public psychologist,0.20833333333333334,0.09193053949069378,GHCEA
+Pre-diabetes screen plus exercise to prevent or slow the onset of diabetes,0.038461538461538464,0.015461045277980319,GHCEA
+Pre-diabetes screen plus diet to prevent or slow the onset of diabetes,0.030303030303030304,0.008163431906773608,GHCEA
+Risperidone (5 mg/day),0.058823529411764705,85.03574902889174,GHCEA
+Low dose diuretics to prevent cardiovascular disease,0.10416666666666667,0.04398400811839228,GHCEA
+Cognitive dissonance – school based bulimia and anorexia preventative intervention,0.00909090909090909,0.010786319694164105,GHCEA
+Cognitive behavioral therapy with public psychiatrist,0.038461538461538464,0.015698907513026168,GHCEA
+"Optimal treatment with antipsychotic medication (haloperidol or other typical antipsychotic, atypical antipsychotic, clozapine) and psychosocial intervention based on severity groups",0.01,0.007003438398030947,GHCEA
+Serotonin and noradrenaline reuptake inhibitors - venlafaxine,0.052631578947368425,0.04251787451444587,GHCEA
+Cognitive behavioral therapy individual sessions plus two parent/family sessions + general practitioner (GP) visit for diagnosis and referral,0.04347826086956522,0.017902262953450893,GHCEA
+Cognitive behavioral therapy-public psychologist,0.052631578947368425,0.0340142996115567,GHCEA
+Pre-diabetes screen plus Metformin to prevent or slow the onset of diabetes,0.052631578947368425,0.05370678886035269,GHCEA
+Selective serotonin reuptake inhibitors as first-line treatment,0.052631578947368425,0.025510724708667526,GHCEA
+Behavioral intervention in families,0.18518518518518517,0.07288778488190722,GHCEA
+Cognitive behavioral therapy-private psychologist,0.058823529411764705,0.048591856587938145,GHCEA
+General practitioner referral to exercise physiologist,0.015384615384615384,0.009030345029616823,GHCEA
+Brief alcohol intervention,0.16949152542372883,0.2040857976693402,GHCEA
+Cognitive behavioral therapy-private psychiatrist,0.04545454545454545,0.035187206494713824,GHCEA
+Cognitive behavioral therapy with public psychologist,0.13513513513513514,0.050767611360532386,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.6129032258064515,2.036377945213931,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.1739130434782608,2.9428377457727497,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.12987012987012986,0.15192619317582842,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.2127659574468085,0.28039463746660065,GHCEA
+Community health workerss received training to implement the community case management of severe acute malnutrition,34.48275862068965,102.0428988346701,GHCEA
+Neonatal care package- 2 antenatal home visits by community health workers followed by 3 postnatal home visits,8.333333333333334,5.065420642078436,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.263157894736842,6.274543370514057,GHCEA
+"Community-based interventions for maternal and newborn health (e.g. pregnancy surveillance, birth preparedness, essential newborn care training, referral and/or home treatment for sepsis)",8.333333333333334,5.065420642078436,GHCEA
+Inpatient treatment for severe acute malnutrition,4.166666666666667,2.9750116278329473,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.19607843137254902,0.250151741095572,GHCEA
+Policy intervention to reduce sodium consumption by 10%,7.6923076923076925,30.68036645660556,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.2820512820512822,1.6753611813664888,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.1282051282051282,0.14912753057242373,GHCEA
+Antivenom for snakebite,11.627906976744185,5.009961647420959,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.492537313432836,1.2916822637300014,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),6.25,3.7793666235063,GHCEA
+Policy intervention to reduce sodium consumption by 10%,6.666666666666667,7.715909174644242,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.4492753623188406,1.7596637150313865,GHCEA
+Policy intervention to reduce sodium consumption by 10%,3.8461538461538463,4.682155585696527,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.5384615384615385,1.9794936728355015,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.1111111111111112,1.1374751848698037,GHCEA
+Xpert MTB/RIF automated DNA test to detect tuberculosis and rifampicin (RIF) resistance,0.7142857142857143,0.6762286205080855,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,19.230769230769234,1.1213505366447265,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),0.10869565217391305,0.05370678886035269,GHCEA
+Cochlear implant,0.02380952380952381,0.0283957309758098,GHCEA
+"Tuberculosis culture using the solid media, 24 patients/week",2.0,1.0821092135171804,GHCEA
 Rotarix vaccine,0.5,0.8726003490401396,GHCEA
-"Tuberculosis culture using the solid media, 8 patients/week",0.8333333333333334,3.674896294012815,GHCEA
-Policy intervention to reduce sodium consumption by 10%,8.333333333333334,85.34305489889759,GHCEA
-Tuberculin skin test (TST) followed by isoniazid preventive therapy (IPT) for positive TST (no evidence of active tuberculosis),0.3448275862068965,5.889048412160653,GHCEA
-Visit the health center three times weekly during the first 2 months (of tuberculosis treatment) of intensive treatment and twice weekly thereafter for supervised medication intake,9.09090909090909,307.1365248803788,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.0909090909090909,0.9036074649574758,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.555555555555555,56.29970140221268,GHCEA
-Antivenom for snakebite,10.0,23.695289893148118,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),3.4482758620689653,26.618498822966156,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,50.0,52.523421864042035,GHCEA
-Policy intervention to reduce sodium consumption by 10%,10.0,87.75329282296535,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.3888888888888888,9.8223242889174,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,142.85714285714286,565.3991883011585,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.2987012987012987,8.266614541293837,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.0,27.275846729138394,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),2.7777777777777777,21.81844165816898,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,71.42857142857143,139.30124929158976,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.625,5.800795890609566,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),1.6129032258064515,4.300242136181932,GHCEA
-Policy intervention to reduce sodium consumption by 10%,18.867924528301884,199.88860192465197,GHCEA
-Antivenom for snakebite,11.11111111111111,39.53633848346295,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,43.47826086956522,118.66402717431721,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.36986301369863,9.307167420617537,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),5.263157894736842,11.294978284144054,GHCEA
-Policy intervention to reduce sodium consumption by 10%,4.166666666666667,32.726321244579516,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.9230769230769231,19.264105485465098,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.2345679012345678,8.853159253758145,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),4.0,19.01321344497583,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,125.0,686.5561572228353,GHCEA
-Policy intervention to reduce sodium consumption by 10%,10.526315789473683,100.59901293638003,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.88235294117647,51.4168414583082,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),3.225806451612903,19.864551360422503,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,200.0,961.1786201119693,GHCEA
-Antivenom for snakebite,7.142857142857142,12.221158897630692,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.2658227848101267,9.033427202364082,GHCEA
-Fortification of wheat flour with folic acid to prevent spina bifida,8.333333333333334,362.97952940408396,GHCEA
-Rotarix vaccine,0.07142857142857144,1.325622451342936,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.5,23.544386729043982,GHCEA
-Human papilloma virus (HPV) vaccine; 70% coverage,0.00625,0.06341462165787723,GHCEA
-Pap smear screening every 5 years,0.03125,0.793003937129081,GHCEA
-Hybrid Benefit-based tailored treatment and Treat-to-target strategy to reduce cardiovascular disease,2.2222222222222223,101.21102214055571,GHCEA
-Universal hearing screening using otoacoustic emission (OAE),0.03125,0.29576109803295725,GHCEA
-Targeted hearing screening using otoacoustic emission (OAE) and automated auditory brainstem response (AABR),0.04545454545454545,0.5703964033492748,GHCEA
-Policy intervention to reduce sodium consumption by 10%,8.333333333333334,99.16241955656088,GHCEA
-Clinical assessment,0.1282051282051282,1.2711795044396446,GHCEA
-Benefit-based tailored treatment,0.13513513513513514,172.10236307952258,GHCEA
-"Comprehensive programme included screening of all patients with sputum-smear-positive pulmonary tuberculosis, rapid diagnosis, standardized care and financial protection against catastrophic health expenditure",16.666666666666668,6.599627807346981,GHCEA
-Target-to-treat,0.0909090909090909,49.538149174254634,GHCEA
-Universal hearing screening using otoacoustic emission (OAE) and automated auditory brainstem response (AABR),0.024390243902439025,0.18571045690441504,GHCEA
-Pulse oximetry + clinical assessment,0.01694915254237288,0.4573101389812076,GHCEA
-Colonoscopy screening every 10 years,0.012987012987012988,0.96420546328059,GHCEA
-Hybrid Benefit-based tailored treatment and Treat-to-target intensive strategy to reduce cardiovascular disease,2.2222222222222223,33.14881547069259,GHCEA
-Treat-to-target Intensive strategy to reduce cardiovascular disease,2.2222222222222223,108.79495431730034,GHCEA
-Benefit-based tailored treatment Intensive Strategy to reduce cardiovascular disease,3.571428571428571,71.29955041865934,GHCEA
-Benefit-based tailored treatment to reduce incidence of cardiovascular disease,3.4482758620689653,111.21935441350762,GHCEA
-Health X project for national tuberculosis control,6.25,43.876646411482675,GHCEA
-Targeted hearing screening using otoacoustic emission (OAE),0.06666666666666667,0.8872832940988719,GHCEA
-Treat-to-target strategy to reduce incidence of cardiovascular disease,2.2222222222222223,88.33572618240981,GHCEA
-Pentavalent antimony,0.05,0.8581076345250211,GHCEA
-Cochlear implant,0.01,0.3641381507929706,GHCEA
-Policy intervention to reduce sodium consumption by 10%,6.25,69.52420030375977,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,142.85714285714286,686.5561572228353,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.35714285714285715,2.077676504979796,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),1.0101010101010102,0.6694232246533528,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.2658227848101267,8.804354627221441,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,142.85714285714286,686.5561572228353,GHCEA
-Policy intervention to reduce sodium consumption by 10%,3.571428571428571,26.085485404533518,GHCEA
-Policy intervention to reduce sodium consumption by 10%,12.195121951219512,100.7513202988878,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),6.25,41.375904906165005,GHCEA
-Long-lasting insecticide-treated bed nets (ITNs) + information on correct use and malaria transmission,45.45454545454545,9.701797651427343,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),5.555555555555555,13.887912429373648,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.2820512820512822,12.115839245774307,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,38.46153846153847,961.1786201119693,GHCEA
-Policy intervention to reduce sodium consumption by 10%,11.363636363636363,97.65867245799005,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),3.3333333333333335,10.864693397129043,GHCEA
-Antivenom for snakebite,7.6923076923076925,19.45607067266798,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.3333333333333333,9.495302790594346,GHCEA
-Policy intervention to reduce sodium consumption by 10%,3.7037037037037037,35.775949316293385,GHCEA
-Policy intervention to reduce sodium consumption by 10%,4.3478260869565215,39.73898804125328,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.3225806451612903,3.334425794565843,GHCEA
-Policy intervention to reduce sodium consumption by 10%,4.166666666666667,43.667904231912544,GHCEA
-Increased minimum legal drinking age to reduce alcohol consumption,0.11111111111111112,5.7866301789056855,GHCEA
-Longer individual intervention by telephone for alcohol misuse/abuse,0.01,0.313466129416677,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.1111111111111112,11.160484188967251,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,66.66666666666667,961.1786201119693,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.0,7.758761061074635,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.06666666666666667,0.5999062187542377,GHCEA
+"Tuberculosis culture using the solid media, 8 patients/week",0.8333333333333334,0.4695945643565122,GHCEA
+Policy intervention to reduce sodium consumption by 10%,8.333333333333334,10.905514463468004,GHCEA
+Tuberculin skin test (TST) followed by isoniazid preventive therapy (IPT) for positive TST (no evidence of active tuberculosis),0.3448275862068965,0.7525287524680685,GHCEA
+Visit the health center three times weekly during the first 2 months (of tuberculosis treatment) of intensive treatment and twice weekly thereafter for supervised medication intake,9.09090909090909,39.24726878256543,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.0909090909090909,0.11546697373401267,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.555555555555555,7.1942258061668145,GHCEA
+Antivenom for snakebite,10.0,3.027889345558592,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),3.4482758620689653,3.40142996115567,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,50.0,6.644351611778509,GHCEA
+Policy intervention to reduce sodium consumption by 10%,10.0,11.213505366447263,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.3888888888888888,1.255140207068513,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,142.85714285714286,71.52449087973335,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.2987012987012987,1.0563447084334379,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.0,3.4854287951180143,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),2.7777777777777777,2.7880573452095656,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,71.42857142857143,17.621976013847352,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.625,0.741251453438252,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),1.6129032258064515,0.5495040324968773,GHCEA
+Policy intervention to reduce sodium consumption by 10%,18.867924528301884,25.54265302494871,GHCEA
+Antivenom for snakebite,11.11111111111111,5.052128865960496,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,43.47826086956522,15.011312900684779,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.36986301369863,1.1893111752292553,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),5.263157894736842,1.4433224729090537,GHCEA
+Policy intervention to reduce sodium consumption by 10%,4.166666666666667,4.181914627870584,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.9230769230769231,2.4616529282481387,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.2345679012345678,1.1312959959497795,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),4.0,2.4295928293969076,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,125.0,86.85116749681909,GHCEA
+Policy intervention to reduce sodium consumption by 10%,10.526315789473683,12.854988515327552,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.88235294117647,6.57027228347628,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),3.225806451612903,2.538380568026619,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,200.0,121.59163449554671,GHCEA
+Antivenom for snakebite,7.142857142857142,1.5616739437830203,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.2658227848101267,1.1543314347813363,GHCEA
+Fortification of wheat flour with folic acid to prevent spina bifida,8.333333333333334,46.383135833940955,GHCEA
+Rotarix vaccine,0.07142857142857144,0.16939392236831025,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.5,3.008606269265268,GHCEA
+Human papilloma virus (HPV) vaccine; 70% coverage,0.00625,0.008103401905457976,GHCEA
+Pap smear screening every 5 years,0.03125,0.10133356388745789,GHCEA
+Hybrid Benefit-based tailored treatment and Treat-to-target strategy to reduce cardiovascular disease,2.2222222222222223,12.933193768652737,GHCEA
+Universal hearing screening using otoacoustic emission (OAE),0.03125,0.037793666235063,GHCEA
+Targeted hearing screening using otoacoustic emission (OAE) and automated auditory brainstem response (AABR),0.04545454545454545,0.07288778488190722,GHCEA
+Policy intervention to reduce sodium consumption by 10%,8.333333333333334,12.671414235026711,GHCEA
+Clinical assessment,0.1282051282051282,0.16243696089568624,GHCEA
+Benefit-based tailored treatment,0.13513513513513514,21.992004059196145,GHCEA
+"Comprehensive programme included screening of all patients with sputum-smear-positive pulmonary tuberculosis, rapid diagnosis, standardized care and financial protection against catastrophic health expenditure",16.666666666666668,0.8433297424352901,GHCEA
+Target-to-treat,0.0909090909090909,6.330204642349262,GHCEA
+Universal hearing screening using otoacoustic emission (OAE) and automated auditory brainstem response (AABR),0.024390243902439025,0.023730906705737232,GHCEA
+Pulse oximetry + clinical assessment,0.01694915254237288,0.05843711993738982,GHCEA
+Colonoscopy screening every 10 years,0.012987012987012988,0.12321045500443141,GHCEA
+Hybrid Benefit-based tailored treatment and Treat-to-target intensive strategy to reduce cardiovascular disease,2.2222222222222223,4.235902815885018,GHCEA
+Treat-to-target Intensive strategy to reduce cardiovascular disease,2.2222222222222223,13.902302293551783,GHCEA
+Benefit-based tailored treatment Intensive Strategy to reduce cardiovascular disease,3.571428571428571,9.110973110238403,GHCEA
+Benefit-based tailored treatment to reduce incidence of cardiovascular disease,3.4482758620689653,14.21210290176464,GHCEA
+Health X project for national tuberculosis control,6.25,5.606752683223632,GHCEA
+Targeted hearing screening using otoacoustic emission (OAE),0.06666666666666667,0.113380998705189,GHCEA
+Treat-to-target strategy to reduce incidence of cardiovascular disease,2.2222222222222223,11.287931287021028,GHCEA
+Pentavalent antimony,0.05,0.10965280338993133,GHCEA
+Cochlear implant,0.01,0.04653118961909261,GHCEA
+Policy intervention to reduce sodium consumption by 10%,6.25,8.88411099030734,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,142.85714285714286,86.85116749681909,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.35714285714285715,0.26549472833269183,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),1.0101010101010102,0.08554187177019876,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.2658227848101267,1.1250595240867707,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,142.85714285714286,86.85116749681909,GHCEA
+Policy intervention to reduce sodium consumption by 10%,3.571428571428571,3.3333191400604347,GHCEA
+Policy intervention to reduce sodium consumption by 10%,12.195121951219512,12.87445102632729,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),6.25,5.287196830811922,GHCEA
+Long-lasting insecticide-treated bed nets (ITNs) + information on correct use and malaria transmission,45.45454545454545,1.2397387782124907,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),5.555555555555555,1.774659110168176,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.2820512820512822,1.5482157310676694,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,38.46153846153847,121.59163449554671,GHCEA
+Policy intervention to reduce sodium consumption by 10%,11.363636363636363,12.479258754392822,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),3.3333333333333335,1.3883387596553756,GHCEA
+Antivenom for snakebite,7.6923076923076925,2.4861830921613413,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.3333333333333333,1.2133519480935802,GHCEA
+Policy intervention to reduce sodium consumption by 10%,3.7037037037037037,4.57160964269836,GHCEA
+Policy intervention to reduce sodium consumption by 10%,4.3478260869565215,5.0780243261841305,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.3225806451612903,0.42608773230671304,GHCEA
+Policy intervention to reduce sodium consumption by 10%,4.166666666666667,5.580078680738782,GHCEA
+Increased minimum legal drinking age to reduce alcohol consumption,0.11111111111111112,0.7394412959034065,GHCEA
+Longer individual intervention by telephone for alcohol misuse/abuse,0.01,0.04005609375256923,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.1111111111111112,1.4261362202967087,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,66.66666666666667,121.59163449554671,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.0,0.9914489359489141,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.06666666666666667,0.07665868011285883,GHCEA
 Rotarix vaccine,1.6666666666666667,2.336448598130841,GHCEA
-Policy intervention to reduce sodium consumption by 10%,4.761904761904763,41.04203960985685,GHCEA
-"Enhanced regulatory system was established based on governmental policies requiring condom use between sex workers and clients, for which violations could result in fines and closures of sex establishments",1.7543859649122808,6.860437840970659,GHCEA
-Cochlear implant,0.005555555555555556,0.33337019482716235,GHCEA
-Tension-free inguinal hernia repair surgery with mosquito net meesh,9.09090909090909,636.8061919369894,GHCEA
-Policy intervention to reduce sodium consumption by 10%,3.125,27.575363952104173,GHCEA
-Policy intervention to reduce sodium consumption by 10%,17.543859649122805,170.55851445727993,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.2727272727272725,20.30344930688222,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,250.0,1373.1123144456706,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),6.666666666666667,35.491331763954875,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.19607843137254902,1.4621371269179222,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),0.07692307692307693,65.45532497450695,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.6666666666666667,10.264202630963812,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,90.9090909090909,152.5680349384078,GHCEA
-Policy intervention to reduce sodium consumption by 10%,4.545454545454545,36.60074088775252,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.625,6.418684559154615,GHCEA
-Multidrug-resistant treatment as per WHO guidelines,1.2987012987012987,13.199255614693962,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,111.1111111111111,331.440903486886,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),0.08333333333333333,72.59590588081679,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.492537313432836,9.774234573916582,GHCEA
-Policy intervention to reduce sodium consumption by 10%,8.333333333333334,66.66847259049798,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.2727272727272725,18.800145133463243,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.4705882352941175,15.364508498268071,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.9230769230769231,19.68387105151679,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,200.0,961.1786201119693,GHCEA
-"Intermittent preventive treatment in infants (IPTi) using sulfadoxine pyrimethamine (SP) against clinical malaria; at 2, 3, and 9 months.",20.0,20.324119128782286,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.7692307692307693,4.882575356394202,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),6.25,9.013035718837298,GHCEA
-Community-based screening and early treatment with antiviral therapy for hepatitis B virus,1.7543859649122808,475.3303361243956,GHCEA
-Antivenom for snakebite,6.25,34.22720692164865,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.5625,10.185650059808479,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.5,22.539585218013055,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),4.0,13.091064994901389,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,250.0,1201.4732751399617,GHCEA
-Policy intervention to reduce sodium consumption by 10%,15.625,172.9971760591388,GHCEA
-Policy intervention to reduce sodium consumption by 10%,3.125,30.539810489864795,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.7543859649122808,11.640742925495402,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),4.545454545454545,16.26384856800376,GHCEA
-"Intermittent preventive treatment in infants (IPTi) using sulfadoxine pyrimethamine (SP) against clinical malaria; at 3, 9, and 15 months.",250.0,1786.4764310715543,GHCEA
-Policy intervention to reduce sodium consumption by 10%,9.09090909090909,71.28045743898818,GHCEA
-Individual donation Nucleic acid amplification testing (ID-NAT) to the HIV antibody screening for HIV screenig of blood donations,0.2173913043478261,4.661733594214738,GHCEA
-Mini pool nucleic acid amplification testing (MPNAT) for HIV screenig of blood donations,0.3448275862068965,5.229567548716337,GHCEA
-"Intermittent preventive treatment in infants (IPTi) using sulfadoxine pyrimethamine (SP) against clinical malaria; at 3, 9, and 15 months.",333.3333333333333,2001.3908889448235,GHCEA
-"Low-dose, high-frequency (LDHF) training for basic emergency obstetric and newborn care",18.18181818181818,96.68906219747967,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,142.85714285714286,686.5561572228353,GHCEA
-Adding p24 antigen for HIV screening of blood donations,0.625,2.039210839348786,GHCEA
-Quality improvement program to reduce maternal and fetal mortality,6.25,120.99317646802798,GHCEA
-Target-to-treat,0.058823529411764705,10.411407623063687,GHCEA
-Benefit-based tailored treatment,0.08333333333333333,62.38710661632693,GHCEA
-"Intermittent preventive treatment in infants (IPTi) using sulfadoxine pyrimethamine (SP) against clinical malaria; at 3, 4, 9 and 12 months.",250.0,2123.816395449427,GHCEA
-Antivenom for snakebite,9.09090909090909,24.137924755583978,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.631578947368421,25.58978929337258,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.1,0.8549408805862925,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.631578947368421,23.56731686604252,GHCEA
-Cochlear implant,0.00625,0.24989202800381297,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),6.666666666666667,36.29795294040839,GHCEA
-Policy intervention to reduce sodium consumption by 10%,7.6923076923076925,67.8351142277425,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.4084507042253522,9.043657584246713,GHCEA
-Antivenom for snakebite,11.627906976744185,39.975719097366074,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,200.0,798.5549646889847,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),2.5,8.756085139133603,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,47.61904761904761,15.416119009439859,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.3513513513513513,8.775329282296536,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.0,42.03584590666866,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.694915254237288,13.826833893565547,GHCEA
-SGOT/SGPT (serum glutamic oxaloacetic transaminase/serum glutamic pyruvic transaminase) test conducted at baseline (asymptomatic),0.05,0.11772887582028374,GHCEA
-Creatinine test conducted at baseline (asymptomatic),0.005263157894736842,0.012385881914739265,GHCEA
-Policy intervention to reduce sodium consumption by 10%,11.235955056179774,100.70049996077991,GHCEA
-"Complete blood count (CBC - hemoglobin, neutrophils, and platelets) test conducted at baseline (asymptomatic)",0.6666666666666666,7.922172268739927,GHCEA
+Policy intervention to reduce sodium consumption by 10%,4.761904761904763,5.244534040945167,GHCEA
+"Enhanced regulatory system was established based on governmental policies requiring condom use between sex workers and clients, for which violations could result in fines and closures of sex establishments",1.7543859649122808,0.87665720648342,GHCEA
+Cochlear implant,0.005555555555555556,0.04259952360134846,GHCEA
+Tension-free inguinal hernia repair surgery with mosquito net meesh,9.09090909090909,81.37392251568589,GHCEA
+Policy intervention to reduce sodium consumption by 10%,3.125,3.5237024356735422,GHCEA
+Policy intervention to reduce sodium consumption by 10%,17.543859649122805,21.7947242278236,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.2727272727272725,2.594464896256645,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,250.0,173.70233499363817,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),6.666666666666667,4.53523994820756,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.19607843137254902,0.18683837371496442,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),0.07692307692307693,8.364172035628698,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.6666666666666667,1.31160538347905,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,90.9090909090909,19.300259443737573,GHCEA
+Policy intervention to reduce sodium consumption by 10%,4.545454545454545,4.677005171632143,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.625,0.8202080108243652,GHCEA
+Multidrug-resistant treatment as per WHO guidelines,1.2987012987012987,1.6866594848705803,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,111.1111111111111,41.928149826050586,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),0.08333333333333333,9.27662716678819,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.492537313432836,1.2489950897756439,GHCEA
+Policy intervention to reduce sodium consumption by 10%,8.333333333333334,8.519193424166815,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.2727272727272725,2.402366014565169,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.4705882352941175,1.9633451116841132,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.9230769230769231,2.515292435965148,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,200.0,121.59163449554671,GHCEA
+"Intermittent preventive treatment in infants (IPTi) using sulfadoxine pyrimethamine (SP) against clinical malaria; at 2, 3, and 9 months.",20.0,2.5971061778694895,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.7692307692307693,0.6239171568349521,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),6.25,1.1517257204816036,GHCEA
+Community-based screening and early treatment with antiviral therapy for hepatitis B virus,1.7543859649122808,60.739820734922674,GHCEA
+Antivenom for snakebite,6.25,4.3737044633607685,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.5625,1.3015675871769146,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.5,2.8802082710398285,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),4.0,1.6728344071257393,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,250.0,151.9895431194334,GHCEA
+Policy intervention to reduce sodium consumption by 10%,15.625,22.10634723454725,GHCEA
+Policy intervention to reduce sodium consumption by 10%,3.125,3.9025125759014108,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.7543859649122808,1.4875058139164736,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),4.545454545454545,2.0782667787101854,GHCEA
+"Intermittent preventive treatment in infants (IPTi) using sulfadoxine pyrimethamine (SP) against clinical malaria; at 3, 9, and 15 months.",250.0,228.28389001044766,GHCEA
+Policy intervention to reduce sodium consumption by 10%,9.09090909090909,9.108533324526475,GHCEA
+Individual donation Nucleic acid amplification testing (ID-NAT) to the HIV antibody screening for HIV screenig of blood donations,0.2173913043478261,0.5956970159642153,GHCEA
+Mini pool nucleic acid amplification testing (MPNAT) for HIV screenig of blood donations,0.3448275862068965,0.6682573597555344,GHCEA
+"Intermittent preventive treatment in infants (IPTi) using sulfadoxine pyrimethamine (SP) against clinical malaria; at 3, 9, and 15 months.",333.3333333333333,255.74661362072703,GHCEA
+"Low-dose, high-frequency (LDHF) training for basic emergency obstetric and newborn care",18.18181818181818,12.355357650401995,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,142.85714285714286,86.85116749681909,GHCEA
+Adding p24 antigen for HIV screening of blood donations,0.625,0.26057941479742114,GHCEA
+Quality improvement program to reduce maternal and fetal mortality,6.25,15.461045277980318,GHCEA
+Target-to-treat,0.058823529411764705,1.330415890934421,GHCEA
+Benefit-based tailored treatment,0.08333333333333333,7.972101471458601,GHCEA
+"Intermittent preventive treatment in infants (IPTi) using sulfadoxine pyrimethamine (SP) against clinical malaria; at 3, 4, 9 and 12 months.",250.0,271.39068839008,GHCEA
+Antivenom for snakebite,9.09090909090909,3.084451193503313,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.631578947368421,3.269976890170804,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.1,0.10924814151179771,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.631578947368421,3.011536383976807,GHCEA
+Cochlear implant,0.00625,0.03193231281595635,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),6.666666666666667,4.638313583394095,GHCEA
+Policy intervention to reduce sodium consumption by 10%,7.6923076923076925,8.668272072262155,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.4084507042253522,1.155638718399435,GHCEA
+Antivenom for snakebite,11.627906976744185,5.1082748715794,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,200.0,102.0428988346701,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),2.5,1.1188914345906809,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,47.61904761904761,1.9699401319434384,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.3513513513513513,1.1213505366447265,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.0,5.371527021880828,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.694915254237288,1.7668542236844218,GHCEA
+SGOT/SGPT (serum glutamic oxaloacetic transaminase/serum glutamic pyruvic transaminase) test conducted at baseline (asymptomatic),0.05,0.015043918448278064,GHCEA
+Creatinine test conducted at baseline (asymptomatic),0.005263157894736842,0.0015827229822510214,GHCEA
+Policy intervention to reduce sodium consumption by 10%,11.235955056179774,12.867956977890303,GHCEA
+"Complete blood count (CBC - hemoglobin, neutrophils, and platelets) test conducted at baseline (asymptomatic)",0.6666666666666666,1.0123303455820445,GHCEA
 Rotarix vaccine,2.7777777777777777,3.7313432835820897,GHCEA
-Policy intervention to reduce sodium consumption by 10%,4.0,36.42876532498447,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.2727272727272725,24.410190275997575,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.0909090909090909,2.8694961917165296,GHCEA
-Composite programs for HIV prevention,6.25,0.42733181606945186,GHCEA
-Aspirin + beta blockers + angiotensin-converting enzyme inhibitors (ACEI) for prevention of acute myocardial infarction,0.3225806451612903,0.9053911164274203,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",20.0,420.29208667841294,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",1.9607843137254901,2.4428111492474294,GHCEA
-Migrant Labourer Program for HIV prevention,10.0,1.1272656192673414,GHCEA
-Rotavirus vaccination,3.225806451612903,16.533229082587674,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",21.27659574468085,156.57940484097742,GHCEA
-Rotavirus vaccination,9.09090909090909,53.59429293214662,GHCEA
-Increase in rotavirus immunization coverage to 90% through targeted increases in rural and urban regions,25.64102564102564,137.65815629873896,GHCEA
-Aspirin + beta blockers + angiotensin-converting enzyme inhibitors (ACEI) + statin for prevention of acute myocardial infarction,0.136986301369863,0.5158623802900417,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",10.0,65.45532497450695,GHCEA
-Rotavirus vaccination,8.333333333333334,48.105720764396665,GHCEA
-Program to increase coverage of tertiary treatment of cardiovascular disease with increased access to tertiary treatment,0.4347826086956522,5.288443474761489,GHCEA
-Aspirin + injection streptokinase (1 dose at 1.5 mU),1.4492753623188406,9.285522845220752,GHCEA
-Hybrid Benefit-based tailored treatment and Treat-to-target strategy to reduce cardiovascular disease (CVD),2.7027027027027026,128.3850425544991,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",52.63157894736842,257.59837570612405,GHCEA
-Aspirin + beta blockers for prevention of acute myocardial infarction,0.5,2.4169339124969267,GHCEA
-Aspirin alone for prevention of acute myocardial infarction,3.3333333333333335,18.701521421287698,GHCEA
-Isoniazid preventive therapy therapy for all HIV+ pregnant women regardless of CD4 count,5.555555555555555,6.209603146881685,GHCEA
-Target-to-treat,0.06666666666666667,13.655180654736402,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",10.416666666666666,44.11905882259584,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",31.25,122.85460995215149,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",18.867924528301884,221.82082352471792,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",50.0,319.42198587559386,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",34.48275862068965,285.19820167463735,GHCEA
-Genetically modified (GM) fortification of mustard oil with genetically modified mustard seed,1.9607843137254901,275.36378092723606,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",41.666666666666664,159.71099293779693,GHCEA
-Aspirin alone (325 mg initial dose & subsequently 75 mg doses once daily,1000.0,12879.918785306205,GHCEA
-Benefit-based tailored treatment to reduce cardiovascular disease,4.545454545454545,144.66575447264213,GHCEA
-Rotavirus vaccination,10.0,52.193134946992465,GHCEA
-Rotavirus vaccination,10.0,58.28868355394049,GHCEA
-High-dose vitamin A supplementation,34.48275862068965,3992.7748234449236,GHCEA
-Rotavirus vaccination,5.88235294117647,26.35494932966946,GHCEA
-Gestational diabetes mellitus screening using oral glucose tolerance test (OGTT),0.5555555555555556,2.3390596505242667,GHCEA
-Program to increase coverage of primary prevention of cardiovascular disease with increased access to treatment,2.0408163265306123,30.134149610905084,GHCEA
-"Rotavirus vaccine introduced at the current DPT3 (diphtheria, pertussis, tetanus) immunization coverage level",13.333333333333334,425.44217617953365,GHCEA
-Rotavirus vaccination,6.666666666666667,34.27274526562166,GHCEA
-Program to increase coverage of primary prevention and tertiary treatment of cardiovascular disease with increased access to primary prevention and tertiary treatment,0.4347826086956522,1330.9249411483077,GHCEA
-Benefit-based tailored treatment,0.0909090909090909,71.04581536378865,GHCEA
-Supplementary immunization activity (SIA) for measles,83.33333333333333,39.144851210244354,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",16.393442622950822,93.94764290458643,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",30.303030303030305,117.43455363073302,GHCEA
-Benefit-based tailored treatment and treat-to-target intensive strategy combined to reduce cardiovascular disease,2.7027027027027026,14.471818859894613,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",52.63157894736842,210.14604333920647,GHCEA
-"Polypill (combining aspirin, beta blockers, angiotensin-converting enzyme inhibitors and statins) for prevention of acute myocardial infarction",0.5263157894736842,2.5017386111810294,GHCEA
-Treat-to-target Intensive strategy to reduce cardiovascular disease,2.3809523809523814,36.31445951291426,GHCEA
-Policy intervention to reduce sodium consumption by 10%,9.09090909090909,91.75628687682232,GHCEA
-Treat-to-target strategy to reduce cardiovascular disease,2.4390243902439024,85.40694809507858,GHCEA
-Program to increase coverage of primary and secondary prevention of cardiovascular disease with increased access to primary and secondary treatment,0.4,532.3699764593232,GHCEA
-Isoniazid preventive therapy therapy for all HIV+ pregnant women with CD4 count <= 200 cells/ul,4.761904761904763,44.86263846567329,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",9.09090909090909,9.495302790594346,GHCEA
-"Program to increase coverage of primary, secondary and tertiary treatment of cardiovascular disease with increased access to secondary and tertiary treatment",0.17241379310344826,1.8412611590707508,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",14.285714285714285,142.59910083731867,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",2.5641025641025643,7.562073529251749,GHCEA
-"Coverage of 3 doses of rotavirus with DPT (diphtheria, pertussis, tetanus) and 1 dose of the measles vaccine",31.25,114.66900699152566,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",10.638297872340425,60.04172666834471,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",50.0,532.3699764593232,GHCEA
-Program to increase coverage of secondary prevention of cardiovascular disease with increased access to secondary treatment,0.4,13.155765480872894,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",2.3255813953488373,3.3190148158311916,GHCEA
-Rotavirus vaccination,7.6923076923076925,44.86263846567329,GHCEA
-Men who have sex with men (MSM) programs for HIV prevention,83.33333333333333,13.936386818306888,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",14.285714285714285,76.05285377990332,GHCEA
-"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",29.41176470588235,156.57940484097742,GHCEA
-Benefit-based tailored treatment Intensive Strategy to reduce cardiovascular disease,5.0,137.44491646970476,GHCEA
-Rotavirus vaccination,8.333333333333334,56.23626511894258,GHCEA
-Policy intervention to reduce sodium consumption by 10%,13.513513513513514,135.23369427417182,GHCEA
-Haemophilus influenzae type B (Hib) vaccine,11.904761904761903,380.2642688995164,GHCEA
-Yaws eradication program,2.4390243902439024,8.98262052518543,GHCEA
-Policy intervention to reduce sodium consumption by 10%,11.76470588235294,113.59245585903054,GHCEA
-Policy intervention to reduce sodium consumption by 10%,7.142857142857142,73.03411054408127,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.0,9.703919757558264,GHCEA
-Gestational diabetes mellitus screening using oral glucose tolerance test (OGTT),0.5,1.179549430855221,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.9090909090909091,8.583382218401514,GHCEA
-Policy intervention to reduce sodium consumption by 10%,3.571428571428571,35.95798652237863,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.0,8.230913168441075,GHCEA
-Policy intervention to reduce sodium consumption by 10%,3.4482758620689653,39.329933249063465,GHCEA
-Policy intervention to reduce sodium consumption by 10%,3.4482758620689653,34.90492895746939,GHCEA
-Policy intervention to reduce sodium consumption by 10%,7.142857142857142,85.1247164149861,GHCEA
-Post exposure prophylaxis (PEP) for prevention of Rabies infection,0.8333333333333334,3.901098997015069,GHCEA
-Assisted partner services intervention for HIV testing,1.1627906976744187,13.398573233036656,GHCEA
-Pneumococcal vaccination (PCV10),15.151515151515152,103.70843697259542,GHCEA
-Assisted partner services intervention for HIV testing,0.9090909090909091,10.03209754634403,GHCEA
-Cochlear implants,0.10752688172043011,3.077283100920943,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.5263157894736842,2.839659921017672,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.4705882352941175,9.450354611703961,GHCEA
-Providing long-lasting insecticide-treated nets (LLINs) and point-of-use water filters to delay HIV-1 progression,9.09090909090909,37.31565255556003,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,100.0,310.0576193909578,GHCEA
-"Intermittent preventive treatment in infants (IPTi) using 3 days of amodiaquine-artesunate (AQ3-AS3) against clinical malaria; at 2, 3, and 9 months.",111.1111111111111,531.6610949993241,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),2.631578947368421,15.844344537479854,GHCEA
-Haemophilus influenzae type b (Hib) vaccine,20.408163265306122,215.82566613215803,GHCEA
-"Intermittent preventive treatment in infants (IPTi) using sulfadoxine pyrimethamine plus 3 days of artesunate (SP-AS3) against clinical malaria; at 2, 3, and 9 months.",71.42857142857143,264.6851059625405,GHCEA
-Pneumococcal vaccination (PCV13),18.867924528301884,126.75475629983883,GHCEA
-"Intermittent preventive treatment in infants (IPTi) using 3 days of chlorproguanil-dapsone (CD3) against clinical malaria; at 2, 3, and 9 months.",12.5,11.235068512866112,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.0909090909090909,0.6987258992810089,GHCEA
-Policy intervention to reduce sodium consumption by 10%,27.027027027027028,264.42217373807443,GHCEA
-Policy intervention to reduce sodium consumption by 10%,4.545454545454545,51.47981979686595,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.3225806451612903,2.8249033008199427,GHCEA
-Policy intervention to reduce sodium consumption by 10%,21.27659574468085,230.39670071811446,GHCEA
-Policy intervention to reduce sodium consumption by 10%,13.157894736842104,131.34127708700404,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.639344262295082,16.828334661433097,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.8518518518518519,18.27273270534494,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,71.42857142857143,181.35445662489985,GHCEA
-Xpert MTB/RIF automated DNA test to detect tuberculosis and rifampicin (RIF) resistance,0.9090909090909091,4.152651922459619,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.263157894736842,43.37144061964939,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.88235294117647,48.280227611184074,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,500.0,2402.9465502799235,GHCEA
-Antivenom for snakebite,3.7037037037037037,29.575014432390827,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),2.7777777777777777,10.133946252398282,GHCEA
-Policy intervention to reduce sodium consumption by 10%,3.4482758620689653,32.004928246923356,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.0,9.751080234070686,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.13333333333333333,1.4180272659598943,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.555555555555555,59.15221960659145,GHCEA
-Policy intervention to reduce sodium consumption by 10%,10.638297872340425,80.25678037075224,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),3.7037037037037037,23.6258865292599,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,333.3333333333333,1373.1123144456706,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),2.2222222222222223,7.612535411715774,GHCEA
-Cochlear implant,0.12987012987012986,3.9260322747737697,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.7027027027027026,16.918178951483753,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,142.85714285714286,213.59524891377097,GHCEA
-Policy intervention to reduce sodium consumption by 10%,6.25,62.86349403203846,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.17241379310344826,1.640147397077277,GHCEA
-Antivenom for snakebite,5.88235294117647,35.55137408463114,GHCEA
-Policy intervention to reduce sodium consumption by 10%,9.09090909090909,74.82010350313732,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),3.4482758620689653,18.745421706314197,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,100.0,961.1786201119693,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.3888888888888888,9.296332534214024,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.2702702702702703,2.7950625641017024,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.0625,0.5174629050895047,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.6129032258064515,10.159732375177922,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),3.125,7.5692413714595705,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.0,46.30646359460624,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,142.85714285714286,640.785746741313,GHCEA
-Policy intervention to reduce sodium consumption by 10%,3.8461538461538463,51.45991523965619,GHCEA
-Policy intervention to reduce sodium consumption by 10%,3.125,29.323062633165083,GHCEA
-Rotarix vaccine,0.35714285714285715,7.89085933487139,GHCEA
-Benefit-based tailored treatment,0.1234567901234568,64.97599387217127,GHCEA
-Target-to-treat,0.0909090909090909,48.39727058721119,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.15625,1.368482955872221,GHCEA
-Policy intervention to reduce sodium consumption by 10%,10.869565217391305,111.31237310969959,GHCEA
-Mass vaccination of livestock against brucellosis,37.03703703703704,16.584734469137793,GHCEA
-Policy intervention to reduce sodium consumption by 10%,15.873015873015872,163.10354670935146,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.38461538461538464,3.9629142644622006,GHCEA
-Policy intervention to reduce sodium consumption by 10%,9.09090909090909,99.64499185038491,GHCEA
-Preventive treatment of malaria in pregnancy with sulphadoxine-pyrimethamine (IPTp-SP) combined with insectiside treated mosquito nets on neonatal survival,1000.0,2618.2129989802775,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.555555555555555,43.76123217278523,GHCEA
-Preventive treatment of malaria in pregnancy with sulphadoxine-pyrimethamine (IPTp-SP) combined with insectiside treated mosquito nets on clinical malaria,20.408163265306122,104.79723946049668,GHCEA
-"Intermittent preventive treatment in infants (IPTi) using sulfadoxine pyrimethamine (SP) against clinical malaria; at 3, 4, and 9 months.",125.0,476.46477606741325,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),1.5625,5.109116856615385,GHCEA
-Preventive treatment of malaria in pregnancy with sulphadoxine-pyrimethamine (IPTp-SP) combined with insectiside treated mosquito nets on combined clinical malaria and neonatal mortality,1000.0,104.79723946049668,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,250.0,998.1937058612309,GHCEA
-"RTS,S/AS01 malaria vaccine",5.0,0.35697584474250543,GHCEA
-Oral rehydration salts and zinc treatment included in social franchising program,4.166666666666667,49.90968529306154,GHCEA
-Policy intervention to reduce sodium consumption by 10%,29.41176470588235,314.88760437262806,GHCEA
-"Pre-erythrocytic RTS, S malaria vaccination",13.888888888888888,43.51798172692014,GHCEA
-Increasing coverage of valve surgery (VS) by refering for surgery abroad,0.23255813953488375,5.248954650371935,GHCEA
-Increasing coverage of valve surgery (VS) by building surgical center,0.037037037037037035,1.4858716352747598,GHCEA
-Orthopaedic Trauma Care Specialist (OTCS) program,6.666666666666667,115.0324063222392,GHCEA
-Preventive chemotherapy treatment of Lymphatic Filariasis,15.151515151515152,120.99317646802798,GHCEA
-Scaling up secondary prevention (SP) services: creating and maintaining a registry of individuals with a history of acute rheumatic fever (ARF) or Rheumatic heart disease (RHD) who then receive prophylactic penicillin on a regular basis.,1.176470588235294,0.37791060565600465,GHCEA
-"Prereferral rectal artesunate, low intervention uptake (25%), low referral compliance (25%)",1.0,32.330160513724074,GHCEA
-Scaling up primary prevention (PP) services: improving treatment of pharyngitis in primary care settings.,0.3448275862068965,8.414787981843693,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),0.5,0.7054995712421457,GHCEA
-Xpert MTB/RIF automated DNA test to detect tuberculosis and rifampicin (RIF) resistance,1.0416666666666667,7.883069740266383,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,38.46153846153847,58.25324970375572,GHCEA
-Policy intervention to reduce sodium consumption by 10%,3.0303030303030303,26.94725533809087,GHCEA
-Policy intervention to reduce sodium consumption by 10%,11.494252873563218,110.14551237089444,GHCEA
-Magnesium sulfate + calcium,55.55555555555555,3131.5880968195484,GHCEA
-Magnesium sulfate + calcium during antenatal care for pre-eclampsia/eclampsia,38.46153846153847,1865.7826277780016,GHCEA
-Magnesium sulfate,250.0,5703.964033492748,GHCEA
-"Bacille Calmette Guerin (BCG) vaccination against tuberculosis, in current extended group",0.11627906976744187,0.631368567907167,GHCEA
-School gruiten intervention that focused on free fruit and vegetable provisions and encouraged nutrition curriculum. Included neither family nor computer feedback tools.,0.0625,0.06710545921756172,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.3888888888888888,14.08212327735526,GHCEA
-"Bacille Calmette Guerin (BCG) vaccination against tuberculosis, in current target group",0.14285714285714288,0.0687638822603104,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.0,9.71371704666137,GHCEA
-Rotavirus vaccination,14.084507042253522,173.5989053671706,GHCEA
-Policy intervention to reduce sodium consumption by 10%,3.571428571428571,34.632447076458696,GHCEA
-Antivenom for snakebite,10.0,27.71028401308157,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,50.0,66.28818069737719,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.4084507042253522,9.774234573916582,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),4.761904761904763,13.243034240281668,GHCEA
-Policy intervention to reduce sodium consumption by 10%,8.333333333333334,67.67414954991396,GHCEA
-Policy intervention to reduce sodium consumption by 10%,6.25,55.61355001664354,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.3333333333333333,9.484025708895304,GHCEA
-Antivenom for snakebite,10.416666666666666,39.46209550746118,GHCEA
-"State-wide health insurance program includes comprehensive health care, increase to antenatal care (ANC), delivery care, essential obstetric care (EOC) to reduce maternal mortality",20.0,61.238877660198206,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,90.9090909090909,369.6840846584498,GHCEA
-Cochlear implant,0.08333333333333333,2.332909625150408,GHCEA
-Burns management,1.8518518518518519,26.892805438438227,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),6.25,15.596776654081733,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.8333333333333334,8.097292280358797,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.47619047619047616,4.228066737380127,GHCEA
-National rotavirus vaccination,6.25,35.489754441535254,GHCEA
-"Children given DTP (diphtheria, tetanus, and pertussis) Vaccine at 6, 10, and 14 weeks; pregnant women receive tetanus shot at first contact with health system and 2nd dose 4 weeks after",200.0,2016.5529411337998,GHCEA
-Policy intervention to reduce sodium consumption by 10%,7.142857142857142,67.748788045218,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.0833333333333335,20.58184398280844,GHCEA
-Rotarix vaccine,0.588235294117647,11.523159663621714,GHCEA
-Policy intervention to reduce sodium consumption by 10%,4.3478260869565215,32.07048050959777,GHCEA
-Cochlear implant,0.008333333333333333,0.1824309425191293,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.88235294117647,64.6917502178374,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.857142857142857,26.461493958810554,GHCEA
-Policy intervention to reduce sodium consumption by 10%,15.151515151515152,156.9486958901306,GHCEA
-DOTS-Plus project- chronic cases of MDR-TB referred from public or private facilities and cases with a diagnosis of MDR-TB during treatment with the first-line retreatment regimen,4.761904761904763,23.41803415510219,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.2727272727272725,24.050687127337433,GHCEA
-Policy intervention to reduce sodium consumption by 10%,3.0303030303030303,32.464223298194355,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.06666666666666667,0.5984693165546012,GHCEA
-Policy intervention to reduce sodium consumption by 10%,6.666666666666667,69.22886559939181,GHCEA
-Haemophilus influenzae type b (Hib) vaccine included in routine childhood immunization services,0.06666666666666667,1.381105092855387,GHCEA
-Multidrug-resistant treatment as per WHO guidelines,1.7543859649122808,32.727662487253475,GHCEA
-Policy intervention to reduce sodium consumption by 10%,8.333333333333334,83.25218564313852,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.5151515151515151,9.810257551461728,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,58.8235294117647,68.16869646184179,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),1.4285714285714286,2.182440461024828,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.5625,7.519066745969876,GHCEA
-Cochlear implant,0.13513513513513514,3.9144851210244345,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.08333333333333333,0.6351251867576841,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),4.761904761904763,1.677988999136341,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.6666666666666667,14.797097572386546,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.7241379310344827,10.969161602870669,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,25.0,10.247106824221422,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),4.0,8.862985179677965,GHCEA
-Policy intervention to reduce sodium consumption by 10%,4.166666666666667,37.65170280017844,GHCEA
-Antivenom therapy for snakebite,6.666666666666667,31.88862569638945,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.2727272727272725,23.419407727402916,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.15873015873015872,1.861190531513333,GHCEA
-Antivenom therapy for snakebite,3.4482758620689653,26.78186821910268,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,71.42857142857143,73.37241374900529,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.555555555555555,46.929652367711846,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),6.25,15.627298721897938,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.9090909090909091,9.978444603001261,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.8333333333333334,8.399475815055796,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.0869565217391304,11.29993299309435,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.6666666666666666,5.258217430195859,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),0.029411764705882353,47.2517730585198,GHCEA
-Home HIV counseling and testing,0.7142857142857143,11.743455363073304,GHCEA
-Lateral-flow immunochromatographic assay (TB-LAM Alere) for tuberculosis diagnosis,2.5,8.24102130741986,GHCEA
-Benefit-based tailored treatment,0.0909090909090909,30.340234220706105,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),0.08333333333333333,92.85522845220751,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.555555555555555,46.91586655830942,GHCEA
-Xpert MTB/RIF automated DNA test to detect tuberculosis and rifampicin (RIF) resistance,1.0,8.041842544702765,GHCEA
-Cochlear implant,0.07692307692307693,3.714209138088301,GHCEA
-"Community health workers (CHW) visit patients twice yearly to increase hypertension adherence by monitoring blood pressure, teaching them about healthy lifestyle choices and encouraging follow-up visits",2.941176470588235,19.91408889498715,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,29.41176470588235,60.834089880504386,GHCEA
-STI services in mobile clinic,9.09090909090909,117.43455363073302,GHCEA
-Target-to-treat,0.058823529411764705,14.265004728277681,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.3513513513513513,8.96245751615022,GHCEA
-Pneumococcal conjugate vaccine - 1 dose,6.25,0.911696500387013,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.631578947368421,27.362766059792513,GHCEA
-Policy intervention to reduce sodium consumption by 10%,10.526315789473683,109.97864821498203,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.14285714285714288,1.359550272127962,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.12048192771084337,1.0829714157116805,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,71.42857142857143,184.8420423292249,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),2.7777777777777777,5.946053348391547,GHCEA
-Haemophilus influenzae type b (Hib)-containing and pneumococcal conjugate vaccine - 2 doses each,4.545454545454545,81.48520047846783,GHCEA
-Haemophilus influenzae type b (Hib) - 1 dose,4.545454545454545,0.9439183979775232,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.0,39.612826265637416,GHCEA
-Haemophilus influenzae type b (Hib)-containing and pneumococcal conjugate vaccine - 1 dose each,7.6923076923076925,1.2473523347219377,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.5384615384615385,9.957044447493574,GHCEA
-Pneumococcal conjugate vaccine - 2 dose,4.545454545454545,68.25256108452861,GHCEA
-Haemophilus influenzae type b (Hib) - 2 doses,2.7027027027027026,9.667735649987707,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.6666666666666666,6.069937934227113,GHCEA
-Xpert MTB/RIF automated DNA test to detect tuberculosis and rifampicin (RIF) resistance,1.0,9.372710853157098,GHCEA
-Xpert MTB/RIF automated DNA test to detect tuberculosis and rifampicin (RIF) resistance,1.1627906976744187,9.372710853157098,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),0.10526315789473685,10.82052797681551,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,250.0,1201.4732751399617,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.7857142857142856,13.946122331278112,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.7543859649122808,17.10077659569105,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.2195121951219512,11.775491627058685,GHCEA
-Policy intervention to reduce sodium consumption by 10%,11.11111111111111,102.11700315715916,GHCEA
-Policy intervention to reduce sodium consumption by 10%,19.230769230769234,211.48171734348114,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),4.166666666666667,12.361531961129794,GHCEA
-Tuberculosis diagnosis using LED fluorescence microscopy,32.25806451612903,150.6707480545254,GHCEA
-"Intermittent preventive treatment in infants (IPTi) using sulfadoxine pyrimethamine (SP) against clinical malaria; at 2, 3, and 9 months.",333.3333333333333,2584.3202740743845,GHCEA
-Tuberculosis diagnosis using Xpert for known HIV-positive cases,5.88235294117647,53.95641653303951,GHCEA
-"Intermittent preventive treatment in infants (IPTi) using mefloquine (MQ) against clinical malaria; at 2, 3, and 9 months.",25.64102564102564,136.52846036741062,GHCEA
-Malaria intermittent preventive treatment in infants (IPTi) using sulfadoxine-pyrimethamine (SP) through Expanded Programme on Immunization (EPI) in Ifakara,250.0,753.3537402726271,GHCEA
-Tuberculosis diagnosis using Xpert for smear negative and known HIV-positive cases,4.545454545454545,31.193553308163466,GHCEA
-Intermittent preventive treatment in pregnancy- with mefloquine in addition to cotrimoxazole prophylaxis,142.85714285714286,1457.2170888485123,GHCEA
-Tuberculosis diagnosis using Xpert for smear negative and known HIV-positive cases with additional HIV testing,4.545454545454545,21.351737023769644,GHCEA
-Urban Malaria Control Program,21.73913043478261,48.105720764396665,GHCEA
-Policy intervention to reduce sodium consumption by 10%,6.666666666666667,58.77345732604582,GHCEA
-Tuberculosis diagnosis using same-day LED fluorescence microscopy,24.390243902439025,190.1321344497582,GHCEA
-Xpert MTB/RIF (mycobacterium tuberculosis/rifampicin) tuberculosis diagnostic test scale up,8.333333333333334,110.91041176235896,GHCEA
-Tuberculosis diagnosis using Xpert for known HIV-positive cases with additional HIV testing,6.666666666666667,79.85549646889847,GHCEA
-"Intermittent preventive treatment in infants (IPTi) using 3 days of chlorproguanil-dapsone (CD3) against clinical malaria; at 2, 3, and 9 months.",2.2222222222222223,4.59750804401435,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,111.1111111111111,400.4910917133206,GHCEA
-Intermittent preventive treatment in pregnancy- with mefloquine,6.666666666666667,817.3541092005976,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.492537313432836,10.277412672959905,GHCEA
-Policy intervention to reduce sodium consumption by 10%,17.857142857142858,203.86902340796138,GHCEA
-Maintenance drug treatment for major depression,0.8333333333333334,0.4436416470494359,GHCEA
-HIV vaccine given to grade 1 students. Infected individuals given highly active antiretroviral treatment (HAART).,2.631578947368421,89.72527693134658,GHCEA
-Continuation drug treatment,1.0,0.4436416470494359,GHCEA
-Infected individuals given highly active antiretroviral treatment (HAART).,1.1494252873563218,20.47576832535858,GHCEA
-Episodic drug treatment for major depression,0.7692307692307693,0.3194219858755939,GHCEA
-"Scaling up of testing and treatment of HIV with universal antiretroviral treatment (ART), HIV testing services, conventional peer-educator outreach, mobile point-of-care night clinics",2.2222222222222223,48.99110212815857,GHCEA
-HIV vaccine given to grade 1 students,9.09090909090909,173.5989053671706,GHCEA
-Maintenance cognitive behavioral therapy:CBT is a nonpharmacological intervention that is effective in the treatment of depression alone or combined with drug therapy.,2.941176470588235,1.3309249411483077,GHCEA
-Episodal cognitive behavioral therapy in the treatment of depression alone or combined with drug therapy.,1.3888888888888888,0.30713652488037874,GHCEA
-Rotavirus vaccination,14.925373134328359,177.4566588197744,GHCEA
-Policy intervention to reduce sodium consumption by 10%,1.2987012987012987,14.021051457123024,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.4285714285714286,9.907629834850926,GHCEA
-Policy intervention to reduce sodium consumption by 10%,6.666666666666667,53.9127035301772,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),5.555555555555555,17.13637263281083,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,50.0,26.26825541740081,GHCEA
-Antivenom therapy for snakebite,8.333333333333334,19.600288760713383,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.08333333333333333,0.7356068773716598,GHCEA
-Cochlear implants,0.029411764705882353,0.16873850283972205,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.9090909090909091,8.365160636577743,GHCEA
-Policy intervention to reduce sodium consumption by 10%,9.09090909090909,90.84811884971384,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.0,51.60290563418318,GHCEA
-Policy intervention to reduce sodium consumption by 10%,4.761904761904763,49.62434530754317,GHCEA
-An automated molecular assay for detection of tuberculosis and rifampin resistance from sputum samples,16.393442622950822,31.94219858755939,GHCEA
-Smear-microscopy plus LF-LAM testing for rapid diagnosis of tuberculosis (LF-LAM is a low-cost urinary lateral flow assay for lipoarabinomannan (LAM)),28.57142857142857,52.88443474761488,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),4.761904761904763,14.519181176163357,GHCEA
-Routine measles-containing vaccine followed by supplementary immunization,1000.0,5703.964033492748,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,125.0,420.29208667841294,GHCEA
-Quadrivalent conjugate meningococcal vaccine,1.3333333333333333,8.70834203586679,GHCEA
-Lateral-flow immunochromatographic assay (TB-LAM Alere) for tuberculosis diagnosis,10.309278350515465,42.02920866784129,GHCEA
-Policy intervention to reduce sodium consumption by 10%,6.25,44.51998465122286,GHCEA
-Xpert as replacement for smear-microscopy plus LF-LAM testing for rapid diagnosis of tuberculosis (Xpert is an automated molecular assay for detection of tuberculosis and rifampin resistance from sputum samples) (LF-LAM is a low-cost urinary lateral flow assay for lipoarabinomannan (LAM)),16.666666666666668,35.491331763954875,GHCEA
-Typhoid vaccination-single dose,2.3255813953488373,9.242996023233317,GHCEA
-Cochlear implants,0.12658227848101267,3.510131712918614,GHCEA
-Xpert as replacement for smear-microscopy plus LF-LAM testing for rapid diagnosis of tuberculosis (Xpert is an automated molecular assay for detection of tuberculosis and rifampin resistance from sputum samples) (LF-LAM is a low-cost urinary lateral flow assay for lipoarabinomannan (LAM)),18.18181818181818,48.99110212815857,GHCEA
-Second generation antipsychotic Olanzapine,0.15873015873015872,0.15417904867146479,GHCEA
-Home based highly active anti-retroviral therapy (HAART) added to a package of home based care (HBAC) and cotrimoxazole prophylaxis,1.2987012987012987,47.67440054088763,GHCEA
-Prenatal community distribution of misoprostol to pregnant mothers,14.705882352941176,23.349560371022942,GHCEA
-Policy intervention to reduce sodium consumption by 10%,19.607843137254903,196.25337053059343,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.7692307692307693,5.590399069537289,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.0833333333333335,20.112201604054516,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.941176470588235,30.24714839168913,GHCEA
-New tuberculosis vaccine (40% efficacy),17.241379310344826,35.28588947412773,GHCEA
-Policy intervention to reduce sodium consumption by 10%,2.7777777777777777,25.30516096869109,GHCEA
-Rotavirus vaccination,7.6923076923076925,71.94188871071934,GHCEA
-Policy intervention to reduce sodium consumption by 10%,37.03703703703704,421.62352940284296,GHCEA
-Policy intervention to reduce sodium consumption by 10%,0.30303030303030304,2.340211248326607,GHCEA
-Cochlear implants,0.004166666666666667,0.26949983621510737,GHCEA
+Policy intervention to reduce sodium consumption by 10%,4.0,4.655029370679718,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.2727272727272725,3.1192424905138503,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.0909090909090909,0.3666769634471474,GHCEA
+Composite programs for HIV prevention,6.25,0.05460635673712747,GHCEA
+Aspirin + beta blockers + angiotensin-converting enzyme inhibitors (ACEI) for prevention of acute myocardial infarction,0.3225806451612903,0.11569489663794796,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",20.0,53.70678886035268,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",1.9607843137254901,0.3121532543122365,GHCEA
+Migrant Labourer Program for HIV prevention,10.0,0.1440470056954688,GHCEA
+Rotavirus vaccination,3.225806451612903,2.1126894168668757,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",21.27659574468085,20.008411536209824,GHCEA
+Rotavirus vaccination,9.09090909090909,6.8485167003134295,GHCEA
+Increase in rotavirus immunization coverage to 90% through targeted increases in rural and urban regions,25.64102564102564,17.590570390393054,GHCEA
+Aspirin + beta blockers + angiotensin-converting enzyme inhibitors (ACEI) + statin for prevention of acute myocardial infarction,0.136986301369863,0.06591918529371453,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",10.0,8.364172035628698,GHCEA
+Rotavirus vaccination,8.333333333333334,6.1471625804018135,GHCEA
+Program to increase coverage of tertiary treatment of cardiovascular disease with increased access to tertiary treatment,0.4347826086956522,0.6757807869845702,GHCEA
+Aspirin + injection streptokinase (1 dose at 1.5 mU),1.4492753623188406,1.1865453352868618,GHCEA
+Hybrid Benefit-based tailored treatment and Treat-to-target strategy to reduce cardiovascular disease (CVD),2.7027027027027026,16.40561074512381,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",52.63157894736842,32.91706414021616,GHCEA
+Aspirin + beta blockers for prevention of acute myocardial infarction,0.5,0.3088465461097763,GHCEA
+Aspirin alone for prevention of acute myocardial infarction,3.3333333333333335,2.3897634387510562,GHCEA
+Isoniazid preventive therapy therapy for all HIV+ pregnant women regardless of CD4 count,5.555555555555555,0.7934906596786166,GHCEA
+Target-to-treat,0.06666666666666667,1.7449196107159732,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",10.416666666666666,5.637729217385089,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",31.25,15.69890751302617,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",18.867924528301884,28.345249676297247,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",50.0,40.817159533868036,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",34.48275862068965,36.44389244095361,GHCEA
+Genetically modified (GM) fortification of mustard oil with genetically modified mustard seed,1.9607843137254901,35.18720649471382,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",41.666666666666664,20.408579766934018,GHCEA
+Aspirin alone (325 mg initial dose & subsequently 75 mg doses once daily,1000.0,1645.853207010808,GHCEA
+Benefit-based tailored treatment to reduce cardiovascular disease,4.545454545454545,18.486032397585163,GHCEA
+Rotavirus vaccination,10.0,6.669470512069941,GHCEA
+Rotavirus vaccination,10.0,7.448386776253292,GHCEA
+High-dose vitamin A supplementation,34.48275862068965,510.2144941733505,GHCEA
+Rotavirus vaccination,5.88235294117647,3.367752436787792,GHCEA
+Gestational diabetes mellitus screening using oral glucose tolerance test (OGTT),0.5555555555555556,0.2988954271665791,GHCEA
+Program to increase coverage of primary prevention of cardiovascular disease with increased access to treatment,2.0408163265306123,3.8506754277234,GHCEA
+"Rotavirus vaccine introduced at the current DPT3 (diphtheria, pertussis, tetanus) immunization coverage level",13.333333333333334,54.36489016231758,GHCEA
+Rotavirus vaccination,6.666666666666667,4.379523555136055,GHCEA
+Program to increase coverage of primary prevention and tertiary treatment of cardiovascular disease with increased access to primary prevention and tertiary treatment,0.4347826086956522,170.0714980577835,GHCEA
+Benefit-based tailored treatment,0.0909090909090909,9.078549718387018,GHCEA
+Supplementary immunization activity (SIA) for measles,83.33333333333333,5.002102884052456,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",16.393442622950822,12.005046921725894,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",30.303030303030305,15.006308652157367,GHCEA
+Benefit-based tailored treatment and treat-to-target intensive strategy combined to reduce cardiovascular disease,2.7027027027027026,1.8492732663042788,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",52.63157894736842,26.85339443017634,GHCEA
+"Polypill (combining aspirin, beta blockers, angiotensin-converting enzyme inhibitors and statins) for prevention of acute myocardial infarction",0.5263157894736842,0.3196832670259088,GHCEA
+Treat-to-target Intensive strategy to reduce cardiovascular disease,2.3809523809523814,4.640422866515238,GHCEA
+Policy intervention to reduce sodium consumption by 10%,9.09090909090909,11.72502571925429,GHCEA
+Treat-to-target strategy to reduce cardiovascular disease,2.4390243902439024,10.913679019750813,GHCEA
+Program to increase coverage of primary and secondary prevention of cardiovascular disease with increased access to primary and secondary treatment,0.4,68.0285992231134,GHCEA
+Isoniazid preventive therapy therapy for all HIV+ pregnant women with CD4 count <= 200 cells/ul,4.761904761904763,5.732747125543264,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",9.09090909090909,1.2133519480935802,GHCEA
+"Program to increase coverage of primary, secondary and tertiary treatment of cardiovascular disease with increased access to secondary and tertiary treatment",0.17241379310344826,0.23528452578895573,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",14.285714285714285,18.221946220476806,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",2.5641025641025643,0.9663153298737699,GHCEA
+"Coverage of 3 doses of rotavirus with DPT (diphtheria, pertussis, tetanus) and 1 dose of the measles vaccine",31.25,14.652914824047976,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",10.638297872340425,7.672398408621812,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",50.0,68.0285992231134,GHCEA
+Program to increase coverage of secondary prevention of cardiovascular disease with increased access to secondary treatment,0.4,1.6811021224822091,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",2.3255813953488373,0.424118449021904,GHCEA
+Rotavirus vaccination,7.6923076923076925,5.732747125543264,GHCEA
+Men who have sex with men (MSM) programs for HIV prevention,83.33333333333333,1.7808533828040156,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",14.285714285714285,9.71837131758763,GHCEA
+"Avahan HIV prevention programme- peer-led outreach, education and condom distribution, free treatment of sexually transmitted infections (STIs), free commodity supplies (condoms, STI drugs), and facilitation of community mobilization",29.41176470588235,20.008411536209824,GHCEA
+Benefit-based tailored treatment Intensive Strategy to reduce cardiovascular disease,5.0,17.563321658290896,GHCEA
+Rotavirus vaccination,8.333333333333334,7.186119636244373,GHCEA
+Policy intervention to reduce sodium consumption by 10%,13.513513513513514,17.28076186869942,GHCEA
+Haemophilus influenzae type B (Hib) vaccine,11.904761904761903,48.59185658793814,GHCEA
+Yaws eradication program,2.4390243902439024,1.1478391319985388,GHCEA
+Policy intervention to reduce sodium consumption by 10%,11.76470588235294,14.51534834063586,GHCEA
+Policy intervention to reduce sodium consumption by 10%,7.142857142857142,9.332622904213473,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.0,1.2400099503556858,GHCEA
+Gestational diabetes mellitus screening using oral glucose tolerance test (OGTT),0.5,0.15072806327129998,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.9090909090909091,1.0968226886082668,GHCEA
+Policy intervention to reduce sodium consumption by 10%,3.571428571428571,4.594871165105822,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.0,1.0517826285023564,GHCEA
+Policy intervention to reduce sodium consumption by 10%,3.4482758620689653,5.025753488705186,GHCEA
+Policy intervention to reduce sodium consumption by 10%,3.4482758620689653,4.460306794067231,GHCEA
+Policy intervention to reduce sodium consumption by 10%,7.142857142857142,10.877614202608473,GHCEA
+Post exposure prophylaxis (PEP) for prevention of Rabies infection,0.8333333333333334,0.49849975004724034,GHCEA
+Assisted partner services intervention for HIV testing,1.1627906976744187,1.7121291750783574,GHCEA
+Pneumococcal vaccination (PCV10),15.151515151515152,13.252324523983132,GHCEA
+Assisted partner services intervention for HIV testing,0.9090909090909091,1.2819459652596747,GHCEA
+Cochlear implants,0.10752688172043011,0.3932288972434301,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.5263157894736842,0.3628643523093366,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.4705882352941175,1.2076082702327824,GHCEA
+Providing long-lasting insecticide-treated nets (LLINs) and point-of-use water filters to delay HIV-1 progression,9.09090909090909,4.768359758629444,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,100.0,39.22310790178926,GHCEA
+"Intermittent preventive treatment in infants (IPTi) using 3 days of amodiaquine-artesunate (AQ3-AS3) against clinical malaria; at 2, 3, and 9 months.",111.1111111111111,67.93801520284295,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),2.631578947368421,2.024660691164089,GHCEA
+Haemophilus influenzae type b (Hib) vaccine,20.408163265306122,27.579161847208137,GHCEA
+"Intermittent preventive treatment in infants (IPTi) using sulfadoxine pyrimethamine plus 3 days of artesunate (SP-AS3) against clinical malaria; at 2, 3, and 9 months.",71.42857142857143,33.822637996244644,GHCEA
+Pneumococcal vaccination (PCV13),18.867924528301884,16.197285529312712,GHCEA
+"Intermittent preventive treatment in infants (IPTi) using 3 days of chlorproguanil-dapsone (CD3) against clinical malaria; at 2, 3, and 9 months.",12.5,1.4356669363460768,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.0909090909090909,0.08928629763295667,GHCEA
+Policy intervention to reduce sodium consumption by 10%,27.027027027027028,33.78903934922852,GHCEA
+Policy intervention to reduce sodium consumption by 10%,4.545454545454545,6.578319935190182,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.3225806451612903,0.3609786858636148,GHCEA
+Policy intervention to reduce sodium consumption by 10%,21.27659574468085,29.44111333948936,GHCEA
+Policy intervention to reduce sodium consumption by 10%,13.157894736842104,16.78337151886021,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.639344262295082,2.150399317949763,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.8518518518518519,2.334970912879733,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,71.42857142857143,22.941817829348434,GHCEA
+Xpert MTB/RIF automated DNA test to detect tuberculosis and rifampicin (RIF) resistance,0.9090909090909091,0.530644299712273,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.263157894736842,5.542195244116343,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.88235294117647,6.169461840064698,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,500.0,303.9790862388668,GHCEA
+Antivenom for snakebite,3.7037037037037037,3.779226652148813,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),2.7777777777777777,1.2949606451100264,GHCEA
+Policy intervention to reduce sodium consumption by 10%,3.4482758620689653,4.089731827769231,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.0,1.2460363254288482,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.13333333333333333,0.18120181984155076,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.555555555555555,7.5587332470126,GHCEA
+Policy intervention to reduce sodium consumption by 10%,10.638297872340425,10.255567722077398,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),3.7037037037037037,3.0190206755819555,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,333.3333333333333,173.70233499363817,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),2.2222222222222223,0.9727635732571029,GHCEA
+Cochlear implant,0.12987012987012986,0.5016858349787124,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.7027027027027026,2.1618800202256327,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,142.85714285714286,27.020363221232603,GHCEA
+Policy intervention to reduce sodium consumption by 10%,6.25,8.03297637051642,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.17241379310344826,0.20958531637091293,GHCEA
+Antivenom for snakebite,5.88235294117647,4.542912422521152,GHCEA
+Policy intervention to reduce sodium consumption by 10%,9.09090909090909,9.560845014023245,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),3.4482758620689653,2.395373212081458,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,100.0,121.59163449554671,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.3888888888888888,1.187926645339582,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.2702702702702703,0.35716550403801894,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.0625,0.06612370745864476,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.6129032258064515,1.2982557103647596,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),3.125,0.967231268575072,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.0,5.917245510853586,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,142.85714285714286,81.06108966369781,GHCEA
+Policy intervention to reduce sodium consumption by 10%,3.8461538461538463,6.575776442497107,GHCEA
+Policy intervention to reduce sodium consumption by 10%,3.125,3.7470311326210886,GHCEA
+Rotarix vaccine,0.35714285714285715,1.0083290398682816,GHCEA
+Benefit-based tailored treatment,0.1234567901234568,8.302920979224583,GHCEA
+Target-to-treat,0.0909090909090909,6.1844181111921275,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.15625,0.17487082793033146,GHCEA
+Policy intervention to reduce sodium consumption by 10%,10.869565217391305,14.223989243751062,GHCEA
+Mass vaccination of livestock against brucellosis,37.03703703703704,2.1192710038353084,GHCEA
+Policy intervention to reduce sodium consumption by 10%,15.873015873015872,20.842095350218568,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.38461538461538464,0.5063987793707916,GHCEA
+Policy intervention to reduce sodium consumption by 10%,9.09090909090909,12.733079465269542,GHCEA
+Preventive treatment of malaria in pregnancy with sulphadoxine-pyrimethamine (IPTp-SP) combined with insectiside treated mosquito nets on neonatal survival,1000.0,334.56688142514787,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.555555555555555,5.592004539383501,GHCEA
+Preventive treatment of malaria in pregnancy with sulphadoxine-pyrimethamine (IPTp-SP) combined with insectiside treated mosquito nets on clinical malaria,20.408163265306122,13.391456539982952,GHCEA
+"Intermittent preventive treatment in infants (IPTi) using sulfadoxine pyrimethamine (SP) against clinical malaria; at 3, 4, and 9 months.",125.0,60.88478450755972,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),1.5625,0.6528656355385163,GHCEA
+Preventive treatment of malaria in pregnancy with sulphadoxine-pyrimethamine (IPTp-SP) combined with insectiside treated mosquito nets on combined clinical malaria and neonatal mortality,1000.0,13.391456539982952,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,250.0,127.55362354333762,GHCEA
+"RTS,S/AS01 malaria vaccine",5.0,0.04561595835255704,GHCEA
+Oral rehydration salts and zinc treatment included in social franchising program,4.166666666666667,6.377681177166881,GHCEA
+Policy intervention to reduce sodium consumption by 10%,29.41176470588235,40.23773613354499,GHCEA
+"Pre-erythrocytic RTS, S malaria vaccination",13.888888888888888,5.560920917420714,GHCEA
+Increasing coverage of valve surgery (VS) by refering for surgery abroad,0.23255813953488375,0.6707347296804839,GHCEA
+Increasing coverage of valve surgery (VS) by building surgical center,0.037037037037037035,0.1898712745699365,GHCEA
+Orthopaedic Trauma Care Specialist (OTCS) program,6.666666666666667,14.699351603957085,GHCEA
+Preventive chemotherapy treatment of Lymphatic Filariasis,15.151515151515152,15.461045277980318,GHCEA
+Scaling up secondary prevention (SP) services: creating and maintaining a registry of individuals with a history of acute rheumatic fever (ARF) or Rheumatic heart disease (RHD) who then receive prophylactic penicillin on a regular basis.,1.176470588235294,0.04829109504882217,GHCEA
+"Prereferral rectal artesunate, low intervention uptake (25%), low referral compliance (25%)",1.0,4.13129145079636,GHCEA
+Scaling up primary prevention (PP) services: improving treatment of pharyngitis in primary care settings.,0.3448275862068965,1.0752789685314923,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),0.5,0.09015186751008933,GHCEA
+Xpert MTB/RIF automated DNA test to detect tuberculosis and rifampicin (RIF) resistance,1.0416666666666667,1.0073336508851933,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,38.46153846153847,7.369189969427073,GHCEA
+Policy intervention to reduce sodium consumption by 10%,3.0303030303030303,3.4434399282806947,GHCEA
+Policy intervention to reduce sodium consumption by 10%,11.494252873563218,14.07488259788553,GHCEA
+Magnesium sulfate + calcium,55.55555555555555,400.1682307241965,GHCEA
+Magnesium sulfate + calcium during antenatal care for pre-eclampsia/eclampsia,38.46153846153847,238.4179879314722,GHCEA
+Magnesium sulfate,250.0,728.8778488190721,GHCEA
+"Bacille Calmette Guerin (BCG) vaccination against tuberculosis, in current extended group",0.11627906976744187,0.08067907877503962,GHCEA
+School gruiten intervention that focused on free fruit and vegetable provisions and encouraged nutrition curriculum. Included neither family nor computer feedback tools.,0.0625,0.008575033515518495,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.3888888888888888,1.7994762345860316,GHCEA
+"Bacille Calmette Guerin (BCG) vaccination against tuberculosis, in current target group",0.14285714285714288,0.008786954175034023,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.0,1.2412618914555595,GHCEA
+Rotavirus vaccination,14.084507042253522,22.183238877102195,GHCEA
+Policy intervention to reduce sodium consumption by 10%,3.571428571428571,4.425487849538992,GHCEA
+Antivenom for snakebite,10.0,3.540943120087102,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,50.0,8.385629965210118,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.4084507042253522,1.2489950897756439,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),4.761904761904763,1.6922537120177463,GHCEA
+Policy intervention to reduce sodium consumption by 10%,8.333333333333334,8.647703291073737,GHCEA
+Policy intervention to reduce sodium consumption by 10%,6.25,7.10654633572464,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.3333333333333333,1.2119109125257732,GHCEA
+Antivenom for snakebite,10.416666666666666,5.042641768860944,GHCEA
+"State-wide health insurance program includes comprehensive health care, increase to antenatal care (ANC), delivery care, essential obstetric care (EOC) to reduce maternal mortality",20.0,7.8253756775053755,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,90.9090909090909,46.76601326751797,GHCEA
+Cochlear implant,0.08333333333333333,0.2981095496192524,GHCEA
+Burns management,1.8518518518518519,3.43648207835489,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),6.25,1.9930253678646503,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.8333333333333334,1.0347079581694392,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.47619047619047616,0.5402811395916244,GHCEA
+National rotavirus vaccination,6.25,4.535038390945741,GHCEA
+"Children given DTP (diphtheria, tetanus, and pertussis) Vaccine at 6, 10, and 14 weeks; pregnant women receive tetanus shot at first contact with health system and 2nd dose 4 weeks after",200.0,257.68408796633867,GHCEA
+Policy intervention to reduce sodium consumption by 10%,7.142857142857142,8.657240929385772,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.0833333333333335,2.6300394039709807,GHCEA
+Rotarix vaccine,0.588235294117647,1.4724805026647922,GHCEA
+Policy intervention to reduce sodium consumption by 10%,4.3478260869565215,4.098108386934541,GHCEA
+Cochlear implant,0.008333333333333333,0.023311835797105544,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.88235294117647,8.266599063080857,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.857142857142857,3.381367182539271,GHCEA
+Policy intervention to reduce sodium consumption by 10%,15.151515151515152,20.055601186059373,GHCEA
+DOTS-Plus project- chronic cases of MDR-TB referred from public or private facilities and cases with a diagnosis of MDR-TB during treatment with the first-line retreatment regimen,4.761904761904763,2.9924603763832875,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.2727272727272725,3.073303582045903,GHCEA
+Policy intervention to reduce sodium consumption by 10%,3.0303030303030303,4.14842258861168,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.06666666666666667,0.07647506637019064,GHCEA
+Policy intervention to reduce sodium consumption by 10%,6.666666666666667,8.846371810547906,GHCEA
+Haemophilus influenzae type b (Hib) vaccine included in routine childhood immunization services,0.06666666666666667,0.17648374063415792,GHCEA
+Multidrug-resistant treatment as per WHO guidelines,1.7543859649122808,4.182086017814349,GHCEA
+Policy intervention to reduce sodium consumption by 10%,8.333333333333334,10.63833390686719,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.5151515151515151,1.2535982657821878,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,58.8235294117647,8.623520176989128,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),1.4285714285714286,0.27888193177007403,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.5625,0.9608197321632905,GHCEA
+Cochlear implant,0.13513513513513514,0.5002102884052456,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.08333333333333333,0.08115911621050036,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),4.761904761904763,0.21442088429222547,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.6666666666666667,1.8908388243680418,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.7241379310344827,1.401688170805908,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,25.0,1.2962860820420758,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),4.0,1.1325515963892352,GHCEA
+Policy intervention to reduce sodium consumption by 10%,4.166666666666667,4.811301750892079,GHCEA
+Antivenom therapy for snakebite,6.666666666666667,4.074870171498686,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.2727272727272725,2.992635897550299,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.15873015873015872,0.23783118948265516,GHCEA
+Antivenom therapy for snakebite,3.4482758620689653,3.4223060279260187,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,71.42857142857143,9.281804159965397,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.555555555555555,5.996879339132,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),6.25,1.9969256132029372,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.9090909090909091,1.2750899539494942,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.8333333333333334,1.0733223118759478,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.0869565217391304,1.4439556076167783,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.6666666666666666,0.6719183688115343,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),0.029411764705882353,6.038041351163911,GHCEA
+Home HIV counseling and testing,0.7142857142857143,1.5006308652157367,GHCEA
+Lateral-flow immunochromatographic assay (TB-LAM Alere) for tuberculosis diagnosis,2.5,1.0530742913794642,GHCEA
+Benefit-based tailored treatment,0.0909090909090909,3.877009834144001,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),0.08333333333333333,11.865453352868615,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.555555555555555,5.9951177271999345,GHCEA
+Xpert MTB/RIF automated DNA test to detect tuberculosis and rifampicin (RIF) resistance,1.0,1.027622344760021,GHCEA
+Cochlear implant,0.07692307692307693,0.4746181341147447,GHCEA
+"Community health workers (CHW) visit patients twice yearly to increase hypertension adherence by monitoring blood pressure, teaching them about healthy lifestyle choices and encouraging follow-up visits",2.941176470588235,2.544710694131424,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,29.41176470588235,7.695673069338399,GHCEA
+STI services in mobile clinic,9.09090909090909,15.006308652157367,GHCEA
+Target-to-treat,0.058823529411764705,1.82284563834709,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.3513513513513513,1.1452626131837274,GHCEA
+Pneumococcal conjugate vaccine - 1 dose,6.25,0.11650062659512514,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.631578947368421,3.496535733095878,GHCEA
+Policy intervention to reduce sodium consumption by 10%,10.526315789473683,14.053559955194888,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.14285714285714288,0.1737293699419104,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.12048192771084337,0.13838689570648016,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,71.42857142857143,23.383006633758985,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),2.7777777777777777,0.7598130963117655,GHCEA
+Haemophilus influenzae type b (Hib)-containing and pneumococcal conjugate vaccine - 2 doses each,4.545454545454545,10.412540697415317,GHCEA
+Haemophilus influenzae type b (Hib) - 1 dose,4.545454545454545,0.12061808372892446,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.0,5.061902814359348,GHCEA
+Haemophilus influenzae type b (Hib)-containing and pneumococcal conjugate vaccine - 1 dose each,7.6923076923076925,0.15939221936062184,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.5384615384615385,1.272355347065712,GHCEA
+Pneumococcal conjugate vaccine - 2 dose,4.545454545454545,8.72161528501454,GHCEA
+Haemophilus influenzae type b (Hib) - 2 doses,2.7027027027027026,1.2353861844391052,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.6666666666666666,0.7756436187160902,GHCEA
+Xpert MTB/RIF automated DNA test to detect tuberculosis and rifampicin (RIF) resistance,1.0,1.197686606040729,GHCEA
+Xpert MTB/RIF automated DNA test to detect tuberculosis and rifampicin (RIF) resistance,1.1627906976744187,1.197686606040729,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),0.10526315789473685,1.3826951061608415,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,250.0,151.9895431194334,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.7857142857142856,1.7820974298754821,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.7543859649122808,2.1852131579045784,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.2195121951219512,1.5047246012632913,GHCEA
+Policy intervention to reduce sodium consumption by 10%,11.11111111111111,13.048964045354232,GHCEA
+Policy intervention to reduce sodium consumption by 10%,19.230769230769234,27.02407278460543,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),4.166666666666667,1.5796114370691967,GHCEA
+Tuberculosis diagnosis using LED fluorescence microscopy,32.25806451612903,19.253377138616997,GHCEA
+"Intermittent preventive treatment in infants (IPTi) using sulfadoxine pyrimethamine (SP) against clinical malaria; at 2, 3, and 9 months.",333.3333333333333,330.23591855880295,GHCEA
+Tuberculosis diagnosis using Xpert for known HIV-positive cases,5.88235294117647,6.894790461802034,GHCEA
+"Intermittent preventive treatment in infants (IPTi) using mefloquine (MQ) against clinical malaria; at 2, 3, and 9 months.",25.64102564102564,17.446212828632262,GHCEA
+Malaria intermittent preventive treatment in infants (IPTi) using sulfadoxine-pyrimethamine (SP) through Expanded Programme on Immunization (EPI) in Ifakara,250.0,96.266885693085,GHCEA
+Tuberculosis diagnosis using Xpert for smear negative and known HIV-positive cases,4.545454545454545,3.9860507357293007,GHCEA
+Intermittent preventive treatment in pregnancy- with mefloquine in addition to cotrimoxazole prophylaxis,142.85714285714286,186.2096694063323,GHCEA
+Tuberculosis diagnosis using Xpert for smear negative and known HIV-positive cases with additional HIV testing,4.545454545454545,2.728419754937703,GHCEA
+Urban Malaria Control Program,21.73913043478261,6.1471625804018135,GHCEA
+Policy intervention to reduce sodium consumption by 10%,6.666666666666667,7.510333321165091,GHCEA
+Tuberculosis diagnosis using same-day LED fluorescence microscopy,24.390243902439025,24.29592829396907,GHCEA
+Xpert MTB/RIF (mycobacterium tuberculosis/rifampicin) tuberculosis diagnostic test scale up,8.333333333333334,14.172624838148623,GHCEA
+Tuberculosis diagnosis using Xpert for known HIV-positive cases with additional HIV testing,6.666666666666667,10.204289883467009,GHCEA
+"Intermittent preventive treatment in infants (IPTi) using 3 days of chlorproguanil-dapsone (CD3) against clinical malaria; at 2, 3, and 9 months.",2.2222222222222223,0.5874899900092121,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,111.1111111111111,50.66318103981113,GHCEA
+Intermittent preventive treatment in pregnancy- with mefloquine,6.666666666666667,104.44513698533265,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.492537313432836,1.3132934212956255,GHCEA
+Policy intervention to reduce sodium consumption by 10%,17.857142857142858,26.051288954472835,GHCEA
+Maintenance drug treatment for major depression,0.8333333333333334,0.0566904993525945,GHCEA
+HIV vaccine given to grade 1 students. Infected individuals given highly active antiretroviral treatment (HAART).,2.631578947368421,11.465494251086527,GHCEA
+Continuation drug treatment,1.0,0.0566904993525945,GHCEA
+Infected individuals given highly active antiretroviral treatment (HAART).,1.1494252873563218,2.6164845855043617,GHCEA
+Episodic drug treatment for major depression,0.7692307692307693,0.04081715953386804,GHCEA
+"Scaling up of testing and treatment of HIV with universal antiretroviral treatment (ART), HIV testing services, conventional peer-educator outreach, mobile point-of-care night clinics",2.2222222222222223,6.260300542004301,GHCEA
+HIV vaccine given to grade 1 students,9.09090909090909,22.183238877102195,GHCEA
+Maintenance cognitive behavioral therapy:CBT is a nonpharmacological intervention that is effective in the treatment of depression alone or combined with drug therapy.,2.941176470588235,0.1700714980577835,GHCEA
+Episodal cognitive behavioral therapy in the treatment of depression alone or combined with drug therapy.,1.3888888888888888,0.039247268782565424,GHCEA
+Rotavirus vaccination,14.925373134328359,22.6761997410378,GHCEA
+Policy intervention to reduce sodium consumption by 10%,1.2987012987012987,1.7916722062483776,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.4285714285714286,1.2660409284698524,GHCEA
+Policy intervention to reduce sodium consumption by 10%,6.666666666666667,6.889204620218073,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),5.555555555555555,2.1897617775680276,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,50.0,3.3566743037720426,GHCEA
+Antivenom therapy for snakebite,8.333333333333334,2.504611919755292,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.08333333333333333,0.09399911275858014,GHCEA
+Cochlear implants,0.029411764705882353,0.021562155062793468,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.9090909090909091,1.068937366016531,GHCEA
+Policy intervention to reduce sodium consumption by 10%,9.09090909090909,11.608975976640512,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.0,6.594048389962527,GHCEA
+Policy intervention to reduce sodium consumption by 10%,4.761904761904763,6.341219166956879,GHCEA
+An automated molecular assay for detection of tuberculosis and rifampin resistance from sputum samples,16.393442622950822,4.081715953386804,GHCEA
+Smear-microscopy plus LF-LAM testing for rapid diagnosis of tuberculosis (LF-LAM is a low-cost urinary lateral flow assay for lipoarabinomannan (LAM)),28.57142857142857,6.757807869845702,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),4.761904761904763,1.855325433357638,GHCEA
+Routine measles-containing vaccine followed by supplementary immunization,1000.0,728.8778488190721,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,125.0,53.70678886035268,GHCEA
+Quadrivalent conjugate meningococcal vaccine,1.3333333333333333,1.1127906088840795,GHCEA
+Lateral-flow immunochromatographic assay (TB-LAM Alere) for tuberculosis diagnosis,10.309278350515465,5.370678886035268,GHCEA
+Policy intervention to reduce sodium consumption by 10%,6.25,5.68896129980878,GHCEA
+Xpert as replacement for smear-microscopy plus LF-LAM testing for rapid diagnosis of tuberculosis (Xpert is an automated molecular assay for detection of tuberculosis and rifampin resistance from sputum samples) (LF-LAM is a low-cost urinary lateral flow assay for lipoarabinomannan (LAM)),16.666666666666668,4.53523994820756,GHCEA
+Typhoid vaccination-single dose,2.3255813953488373,1.2249687587030202,GHCEA
+Cochlear implants,0.12658227848101267,0.4485402146578905,GHCEA
+Xpert as replacement for smear-microscopy plus LF-LAM testing for rapid diagnosis of tuberculosis (Xpert is an automated molecular assay for detection of tuberculosis and rifampin resistance from sputum samples) (LF-LAM is a low-cost urinary lateral flow assay for lipoarabinomannan (LAM)),18.18181818181818,6.260300542004301,GHCEA
+Second generation antipsychotic Olanzapine,0.15873015873015872,0.019701683367700912,GHCEA
+Home based highly active anti-retroviral therapy (HAART) added to a package of home based care (HBAC) and cotrimoxazole prophylaxis,1.2987012987012987,6.318259913310315,GHCEA
+Prenatal community distribution of misoprostol to pregnant mothers,14.705882352941176,2.983710492241815,GHCEA
+Policy intervention to reduce sodium consumption by 10%,19.607843137254903,25.078127017613692,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.7692307692307693,0.7143660135159342,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.0833333333333335,2.57002641568241,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.941176470588235,3.8651149136271394,GHCEA
+New tuberculosis vaccine (40% efficacy),17.241379310344826,4.508987620285012,GHCEA
+Policy intervention to reduce sodium consumption by 10%,2.7777777777777777,3.2336058191421904,GHCEA
+Rotavirus vaccination,7.6923076923076925,9.193053949069379,GHCEA
+Policy intervention to reduce sodium consumption by 10%,37.03703703703704,53.87692652305707,GHCEA
+Policy intervention to reduce sodium consumption by 10%,0.30303030303030304,0.2990425834466583,GHCEA
+Cochlear implants,0.004166666666666667,0.03443788560449195,GHCEA
 Rotarix vaccine,0.625,0.8278145695364238,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.555555555555555,55.772800997973505,GHCEA
-Vitamin K prophylaxis,9.09090909090909,133.0924941148308,GHCEA
-Condom promotion programme for female sex workers for HIV prevention,3.125,37.14209138088301,GHCEA
-Brief smoking cessation advice + Nicotine replacement therapy (gum),200.0,0.28814135985025063,GHCEA
-Brief smoking cessation advice + Varenicline,200.0,0.27638354088844524,GHCEA
-Bupropion for smoking cessation,142.85714285714286,0.23311389674479935,GHCEA
-Varenicline for smoking cessation,111.1111111111111,0.1498451858982558,GHCEA
-Condom promotion programme for men who have sex with men for HIV prevention,9.09090909090909,29.68605816687675,GHCEA
-Rotavirus vaccination,8.333333333333334,194.7695035826792,GHCEA
-Brief smoking cessation advice + Bupropion,333.3333333333333,0.46111269470434496,GHCEA
-Policy intervention to reduce sodium consumption by 10%,15.625,173.52346038439475,GHCEA
-Nicotine replacement therapy (gum) for smoking cessation,76.92307692307693,0.11689990846115336,GHCEA
-Needle and syringe programme for HIV prevention,0.625,4.392491554944909,GHCEA
-"30% of people receiving ART for HIV 2015-2030 Viral Load scenario 7: Every 2 years, switching criteria of  confirmed VL >1000 copies/mL, with resistance test",0.18867924528301885,1.3713806709410694,GHCEA
-"30% of people receiving ART for HIV 2015-2030 Viral Load scenario 3: Every year, switching criteria of confirmed VL >1000 copies/mL, with resistance test",0.17543859649122806,1.6650437128627704,GHCEA
-"Needle and syringe program, methadone maintenance program, condom promotion for female sex workers and men who have sex with men, antiretroviral therapy program",3.8461538461538463,67.67414954991396,GHCEA
-"30% of people receiving ART for HIV 2015-2030 Viral Load scenario 8: Every 2 years, switching criteria of  confirmed VL >400 copies/mL, with resistance test",0.18867924528301885,1.4993521680228776,GHCEA
-Brief smoking cessation advice,10.526315789473683,5.038201669962049,GHCEA
-"30% of people receiving ART for HIV 2015-2030 Viral Load scenario 5: Every 2 years, switching criteria of  confirmed VL >1000 copies/mL, no resistance test",0.19607843137254902,1.5670230861243812,GHCEA
-3 doses of combined diphtheria-tetanus-pertussis-hepatitis B-Hib and 3 doses of Hep B vaccines,0.7692307692307693,3.320394863571662,GHCEA
-Antiretroviral therapy programme (including prevention of mother-to-child transmission of HIV),5.88235294117647,106.47399529186463,GHCEA
-Brief smoking cessation advice + Nicotine replacement therapy (patch),62.5,0.09898787245748025,GHCEA
-"30% of people receiving ART for HIV 2015-2030 Viral Load scenario 4: Every year, switching criteria of  confirmed VL >400 copies/mL, with resistance test",0.16666666666666666,1.7195412676334727,GHCEA
-Rotavirus vaccination,3.8461538461538463,29.576109803295726,GHCEA
-Clozapine,0.9090909090909091,102.3788416267929,GHCEA
-"30% of people receiving ART for HIV 2015-2030 Viral Load scenario 2: Every year, switching criteria of confirmed VL >400 copies/mL, no resistance test",0.2,1.6947261559613427,GHCEA
-"30% of people receiving ART for HIV 2015-2030 Viral Load scenario 6: Every 2 years, switching criteria of  confirmed VL >400 copies/mL, no resistance test",0.2,1.608044632881564,GHCEA
-Nicotine replacement therapy (patch) for smoking cessation,29.41176470588235,0.04890080064965828,GHCEA
-Policy intervention to reduce sodium consumption by 10%,9.09090909090909,82.41871861791563,GHCEA
-Rotavirus vaccination,29.41176470588235,362.97952940408396,GHCEA
-Policy intervention to reduce sodium consumption by 10%,5.0,39.640355655943644,GHCEA
-New tuberculosis vaccine (40% efficacy),28.57142857142857,98.12668526529671,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,333.3333333333333,1597.1099293779694,GHCEA
-"Community-based therapeutic care, ready to use therapeutic food, a nutrient-dense food with a nutrient content/100 kcal that is similar to F100 milk",16.666666666666668,27.72760294058974,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),5.263157894736842,14.3367139082403,GHCEA
-New tuberculosis vaccine (40% efficacy),250.0,1038.4329839908771,GHCEA
-Dihydroartemisinin piperaquine for first line treatment of plasmodium falciparum malaria,142.85714285714286,29.358638407683255,GHCEA
-New tuberculosis vaccine (40% efficacy),1000.0,7394.027450823932,GHCEA
-Policy intervention to reduce sodium consumption by 10%,3.7037037037037037,33.9420650609506,GHCEA
-Rotavirus vaccination,21.27659574468085,241.98635293605597,GHCEA
-Rotavirus vaccination,23.25581395348837,275.36378092723606,GHCEA
-Sickle cell disease screening using isoelectric focusing (IEF),1.1904761904761907,1.5047201143564812,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,111.1111111111111,110.91041176235896,GHCEA
-Pneumococcal conjugate vaccination,7.142857142857142,62.38710661632693,GHCEA
-Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,83.33333333333333,241.98635293605597,GHCEA
-New tuberculosis vaccine (40% efficacy),200.0,726.6196221009868,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.555555555555555,7.126896133165952,GHCEA
+Vitamin K prophylaxis,9.09090909090909,17.00714980577835,GHCEA
+Condom promotion programme for female sex workers for HIV prevention,3.125,4.746181341147447,GHCEA
+Brief smoking cessation advice + Nicotine replacement therapy (gum),200.0,0.03681998225974962,GHCEA
+Brief smoking cessation advice + Varenicline,200.0,0.03531751595011599,GHCEA
+Bupropion for smoking cessation,142.85714285714286,0.029788328711662218,GHCEA
+Varenicline for smoking cessation,111.1111111111111,0.01914788314093487,GHCEA
+Condom promotion programme for men who have sex with men for HIV prevention,9.09090909090909,3.7934163135565093,GHCEA
+Rotavirus vaccination,8.333333333333334,24.888511910895147,GHCEA
+Brief smoking cessation advice + Bupropion,333.3333333333333,0.05892302739038578,GHCEA
+Policy intervention to reduce sodium consumption by 10%,15.625,22.17359818224035,GHCEA
+Nicotine replacement therapy (gum) for smoking cessation,76.92307692307693,0.014937989318655868,GHCEA
+Needle and syringe programme for HIV prevention,0.625,0.5612920727979652,GHCEA
+"30% of people receiving ART for HIV 2015-2030 Viral Load scenario 7: Every 2 years, switching criteria of  confirmed VL >1000 copies/mL, with resistance test",0.18867924528301885,0.17524111082718546,GHCEA
+"30% of people receiving ART for HIV 2015-2030 Viral Load scenario 3: Every year, switching criteria of confirmed VL >1000 copies/mL, with resistance test",0.17543859649122806,0.21276667813734382,GHCEA
+"Needle and syringe program, methadone maintenance program, condom promotion for female sex workers and men who have sex with men, antiretroviral therapy program",3.8461538461538463,8.647703291073737,GHCEA
+"30% of people receiving ART for HIV 2015-2030 Viral Load scenario 8: Every 2 years, switching criteria of  confirmed VL >400 copies/mL, with resistance test",0.18867924528301885,0.1915938768957381,GHCEA
+Brief smoking cessation advice,10.526315789473683,0.64380377813672,GHCEA
+"30% of people receiving ART for HIV 2015-2030 Viral Load scenario 5: Every 2 years, switching criteria of  confirmed VL >1000 copies/mL, no resistance test",0.19607843137254902,0.20024116725798685,GHCEA
+3 doses of combined diphtheria-tetanus-pertussis-hepatitis B-Hib and 3 doses of Hep B vaccines,0.7692307692307693,0.42429479764935596,GHCEA
+Antiretroviral therapy programme (including prevention of mother-to-child transmission of HIV),5.88235294117647,13.60571984462268,GHCEA
+Brief smoking cessation advice + Nicotine replacement therapy (patch),62.5,0.012649109831747087,GHCEA
+"30% of people receiving ART for HIV 2015-2030 Viral Load scenario 4: Every year, switching criteria of  confirmed VL >400 copies/mL, with resistance test",0.16666666666666666,0.21973061764571514,GHCEA
+Rotavirus vaccination,3.8461538461538463,3.7793666235063,GHCEA
+Clozapine,0.9090909090909091,13.082422927521806,GHCEA
+"30% of people receiving ART for HIV 2015-2030 Viral Load scenario 2: Every year, switching criteria of confirmed VL >400 copies/mL, no resistance test",0.2,0.21655963250142213,GHCEA
+"30% of people receiving ART for HIV 2015-2030 Viral Load scenario 6: Every 2 years, switching criteria of  confirmed VL >400 copies/mL, no resistance test",0.2,0.20548308263123258,GHCEA
+Nicotine replacement therapy (patch) for smoking cessation,29.41176470588235,0.006248761418158499,GHCEA
+Policy intervention to reduce sodium consumption by 10%,9.09090909090909,10.531829789933955,GHCEA
+Rotavirus vaccination,29.41176470588235,46.383135833940955,GHCEA
+Policy intervention to reduce sodium consumption by 10%,5.0,5.065420642078436,GHCEA
+New tuberculosis vaccine (40% efficacy),28.57142857142857,12.539063508806846,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,333.3333333333333,204.0857976693402,GHCEA
+"Community-based therapeutic care, ready to use therapeutic food, a nutrient-dense food with a nutrient content/100 kcal that is similar to F100 milk",16.666666666666668,3.543156209537156,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),5.263157894736842,1.83200895573914,GHCEA
+New tuberculosis vaccine (40% efficacy),250.0,132.69557715821858,GHCEA
+Dihydroartemisinin piperaquine for first line treatment of plasmodium falciparum malaria,142.85714285714286,3.7515771630393417,GHCEA
+New tuberculosis vaccine (40% efficacy),1000.0,944.8416558765749,GHCEA
+Policy intervention to reduce sodium consumption by 10%,3.7037037037037037,4.337267770419947,GHCEA
+Rotavirus vaccination,21.27659574468085,30.922090555960636,GHCEA
+Rotavirus vaccination,23.25581395348837,35.18720649471382,GHCEA
+Sickle cell disease screening using isoelectric focusing (IEF),1.1904761904761907,0.19227981691100451,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,111.1111111111111,14.172624838148623,GHCEA
+Pneumococcal conjugate vaccination,7.142857142857142,7.972101471458601,GHCEA
+Syphilis screening before third trimester + treat with three injections of benzathine penicillin if positive,83.33333333333333,30.922090555960636,GHCEA
+New tuberculosis vaccine (40% efficacy),200.0,92.85068137822574,GHCEA
